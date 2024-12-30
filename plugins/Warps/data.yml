@@ -1,0 +1,137 @@
+warps:
+  Casa:
+    x: -307.8221291705689
+    y: 92.0
+    z: 114.43205289011964
+    pitch: 25.65005
+    yaw: 162.00801
+    world: world
+    icon: OAK_DOOR
+    name: '&6&lCasa'
+    needsPermission: false
+  Magazzino:
+    x: -310.55444
+    y: 81.0
+    z: 112.880684
+    pitch: -3.3794985
+    yaw: -87.78723
+    world: world
+    icon: CHEST
+    needsPermission: false
+  Mob Spawner:
+    needsPermission: false
+    x: -694.51086
+    y: 81.0
+    z: 14.320672
+    pitch: 10.004885
+    yaw: 87.29544
+    world: world
+    icon: SPAWNER
+  Villaggio:
+    needsPermission: false
+    world: world
+    x: -296.30000001192093
+    y: 109.0
+    z: 592.0213860436361
+    pitch: 7.49996
+    yaw: -118.491394
+    icon: BELL
+  Sabbia-Abeti:
+    needsPermission: false
+    world: world
+    x: 825.199036095433
+    y: 70.0
+    z: -811.6036898259789
+    pitch: 17.9044
+    yaw: -176.4356
+    icon: SAND
+  Lava:
+    needsPermission: false
+    world: world_nether
+    x: -82.65826798878804
+    y: 33.0
+    z: 62.33443069120019
+    pitch: 56.70046
+    yaw: -87.623474
+    icon: LAVA_BUCKET
+  Blaze:
+    needsPermission: false
+    world: world_nether
+    x: 715.1391118396031
+    y: 56.0
+    z: 192.60535382664062
+    pitch: 7.6509166
+    yaw: -176.73079
+    icon: BLAZE_ROD
+  Spawner Zombie:
+    needsPermission: false
+    world: world
+    x: -132.6654947601631
+    y: 44.0
+    z: 234.64749282295932
+    pitch: 28.183115
+    yaw: 95.66919
+    icon: ROTTEN_FLESH
+  Spawner Ragni:
+    needsPermission: false
+    world: world
+    x: -440.3109434903476
+    y: -2.0
+    z: 309.1187625711772
+    pitch: 29.78327
+    yaw: 76.53369
+    icon: STRING
+  Fortezza Negri Oro:
+    needsPermission: false
+    world: world_nether
+    x: 111.2988614598079
+    y: 72.875
+    z: -125.59182850049316
+    pitch: 3.194759
+    yaw: -100.97101
+    icon: GOLDEN_HELMET
+  Warden:
+    needsPermission: false
+    world: world
+    x: 130.38521139922616
+    y: -42.0
+    z: 464.31129015455616
+    pitch: 18.384377
+    yaw: 11.673462
+    icon: SCULK_SENSOR
+  deserto:
+    x: 14519.507
+    y: 64.0
+    z: 1567.6636
+    pitch: 5.3750277
+    yaw: 126.882324
+    world: world
+    icon: INFESTED_STONE_BRICKS
+  End Portal:
+    x: -374.9351
+    y: 19.5
+    z: 1614.6748
+    pitch: 12.426901
+    yaw: 86.66925
+    world: world
+    icon: DIRT
+  EnderMan Farm:
+    x: 20.91429
+    y: 57.0
+    z: 250.04597
+    pitch: 20.329979
+    yaw: -30.935913
+    world: world_the_end
+    icon: ENDER_PEARL
+  aaa:
+    x: 24.04857
+    y: 53.0
+    z: 251.03824
+    pitch: 31.880548
+    yaw: 155.216
+    world: world_the_end
+    icon: DIORITE
+
+
+
+homes: ''
