@@ -123,14 +123,6 @@ warps:
     yaw: -30.935913
     world: world_the_end
     icon: ENDER_PEARL
-  aaa:
-    x: 24.04857
-    y: 53.0
-    z: 251.03824
-    pitch: 31.880548
-    yaw: 155.216
-    world: world_the_end
-    icon: DIORITE
 
 
 
