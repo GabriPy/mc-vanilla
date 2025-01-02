@@ -1,222 +1,270 @@
-[00:20:53] [ServerMain/INFO]: [bootstrap] Running Java 23 (Java HotSpot(TM) 64-Bit Server VM 23.0.1+11-39; Oracle Corporation null) on Linux 6.1.0-28-cloud-amd64 (amd64)
-[00:20:53] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-66-main@d00344a (2024-12-29T14:59:35Z) for Minecraft 1.21.4
-[00:20:53] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[00:20:54] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
-[00:20:54] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
- - ItemJoin (6.1.1-RELEASE-b1048), SkinsRestorer (15.5.1), TreeAssist (7.3.57), Veinminer (2.2.2), Warps (4.1.3)
-[00:21:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:21:00] [ServerMain/WARN]: Missing data pack file/mob-health-bar-1-5-3-1-21-1.zip
-[00:21:03] [ServerMain/INFO]: Loaded 1370 recipes
-[00:21:03] [ServerMain/INFO]: Loaded 1481 advancements
-[00:21:03] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[00:21:03] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 332.2ms
-[00:21:03] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[00:21:03] [Server thread/INFO]: Loading properties
-[00:21:03] [Server thread/INFO]: This server is running Paper version 1.21.4-66-main@d00344a (2024-12-29T14:59:35Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
-[00:21:03] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[00:21:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:21:03] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:21:04] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[00:21:04] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[00:21:05] [Server thread/INFO]: Default game type: SURVIVAL
-[00:21:05] [Server thread/INFO]: Generating keypair
-[00:21:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:21:05] [Server thread/INFO]: Using epoll channel type
-[00:21:05] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:21:05] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[00:21:05] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loading 4 libraries... please wait
-[00:21:05] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/org/jetbrains/kotlin/kotlin-stdlib/2.1.0/kotlin-stdlib-2.1.0.jar
-[00:21:05] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
-[00:21:05] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json/1.7.3/kotlinx-serialization-json-1.7.3.jar
-[00:21:05] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.7.3/kotlinx-serialization-json-jvm-1.7.3.jar
-[00:21:05] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.jar
-[00:21:05] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.jar
-[00:21:05] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar
-[00:21:05] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/de/miraculixx/kpaper/1.2.1/kpaper-1.2.1.jar
-[00:21:05] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.1/kotlinx-coroutines-jdk8-1.7.1.jar
-[00:21:05] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.jar
-[00:21:05] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.jar
-[00:21:05] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[00:21:05] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.2.2
-[00:21:06] [Server thread/INFO]: [TreeAssist] Loading server plugin TreeAssist v7.3.57
-[00:21:06] [Server thread/INFO]: [TreeAssist] Loading main config file: /config.yml
-[00:21:06] [Server thread/INFO]: [ItemJoin] Loading server plugin ItemJoin v6.1.1-RELEASE-b1048
-[00:21:06] [Server thread/INFO]: [Warps] Loading server plugin Warps v4.1.3
-[00:21:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:21:06] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[00:21:07] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[00:21:08] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
-[00:21:08] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[00:21:09] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.2.2
-[00:21:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:21:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:21:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[00:21:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[00:21:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[00:21:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:21:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:21:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
-[00:21:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
-[00:21:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[00:21:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:21:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[00:21:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[00:21:09] [Server thread/INFO]: [ItemJoin] Enabling ItemJoin v6.1.1-RELEASE-b1048
-[00:21:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:21:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:21:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:21:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:21:09] [Server thread/INFO]: Preparing level "world"
-[00:21:09] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is up to date
-[00:21:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:21:10] [Server thread/INFO]: Preparing spawn area: 0%
-[00:21:10] [Server thread/INFO]: Preparing spawn area: 2%
-[00:21:11] [Server thread/INFO]: Preparing spawn area: 18%
-[00:21:11] [Server thread/INFO]: Time elapsed: 1457 ms
-[00:21:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:21:11] [Server thread/INFO]: Preparing spawn area: 0%
-[00:21:12] [Server thread/INFO]: Time elapsed: 348 ms
-[00:21:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:21:12] [Server thread/INFO]: Preparing spawn area: 0%
-[00:21:12] [Server thread/INFO]: Time elapsed: 157 ms
-[00:21:12] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v7.3.57
-[00:21:12] [Server thread/INFO]: [TreeAssist] sending full Metrics! You can deactivate this in the config.yml
-[00:21:12] [Server thread/INFO]: [TreeAssist] debugging: off
-[00:21:12] [Server thread/INFO]: [Warps] Enabling Warps v4.1.3
-[00:21:12] [Thread-11/INFO]: [TreeAssist] Checking for updates...
-[00:21:12] [Server thread/INFO]: [WarpsGUI] Plugin has started!
-[00:21:12] [Server thread/INFO]: [spark] Starting background profiler...
-[00:21:12] [Server thread/INFO]: Done preparing level "world" (3.613s)
-[00:21:12] [Server thread/INFO]: Running delayed init tasks
-[00:21:12] [Craft Scheduler Thread - 3 - ItemJoin/ERROR]: [ItemJoin_ERROR] Detected a unsupported version of Minecraft, expected: 1.21.3 or older!
-[00:21:12] [Craft Scheduler Thread - 3 - ItemJoin/ERROR]: [ItemJoin_ERROR] Attempting to run in NMS compatibility mode...
-[00:21:12] [Craft Scheduler Thread - 3 - ItemJoin/ERROR]: [ItemJoin_ERROR] Things may not work as expected, please check for plugin updates.
-[00:21:13] [Craft Scheduler Thread - 3 - ItemJoin/INFO]: [ItemJoin] Hooked into { SkinsRestorer }
-[00:21:13] [Server thread/INFO]: [ItemJoin] 1/1 Custom item(s) loaded!
-[00:21:13] [Server thread/INFO]: Done (21.804s)! For help, type "help"
-[00:21:13] [Craft Scheduler Thread - 3 - ItemJoin/INFO]: [ItemJoin] Checking for updates...
-[00:21:14] [Craft Scheduler Thread - 3 - ItemJoin/INFO]: [ItemJoin] You are up to date!
-[00:21:15] [User Authenticator #0/INFO]: UUID of player BlackPillona_96 is a05c8968-62c7-3ffb-bca7-bf07caf51f25
-[00:21:16] [Server thread/INFO]: BlackPillona_96 joined the game
-[00:21:16] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:51680] logged in with entity id 38 at ([world]-307.70619874478206, 84.0, 110.12658867498655)
-[00:21:18] [User Authenticator #0/INFO]: UUID of player BlackPillona_94 is e258d955-cdf3-3130-9910-bfeca184bfa7
-[00:21:18] [Server thread/INFO]: BlackPillona_94 joined the game
-[00:21:18] [Server thread/INFO]: BlackPillona_94[/81.56.36.157:23072] logged in with entity id 218 at ([world]-332.2843880347986, 105.5, 204.22574343295477)
-[00:21:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2533ms or 50 ticks behind
-[00:21:27] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode creative
-[00:21:27] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Creative Mode]
-[00:21:31] [Server thread/INFO]: BlackPillona_94 issued server command: /give @p minecraft:command_block
-[00:21:31] [Server thread/INFO]: [BlackPillona_94: Gave 1 [Command Block] to BlackPillona_94]
-[00:21:57] [Server thread/INFO]: BlackPillona_94 issued server command: /tp @e[type=minecraft:villager,name=Diamanti] @p
-[00:21:57] [Server thread/INFO]: [BlackPillona_94: Teleported Diamanti to BlackPillona_94]
-[00:22:24] [Server thread/INFO]: BlackPillona_94 issued server command: /execute as @e[type=villager] at @e[name="Diamanti"] run tp @s ~ ~ ~ facing entity @p[distance=..10]
-[00:22:24] [Server thread/INFO]: [Shepherd: Teleported Shepherd to -334.700000, 106.000000, 203.552698]
-[00:22:24] [Server thread/INFO]: [Shepherd: Teleported Shepherd to -334.700000, 106.000000, 203.552698]
-[00:22:24] [Server thread/INFO]: [Diamanti: Teleported Diamanti to -334.700000, 106.000000, 203.552698]
-[00:22:24] [Server thread/INFO]: [Shepherd: Teleported Shepherd to -334.700000, 106.000000, 203.552698]
-[00:22:30] [Server thread/INFO]: BlackPillona_94 issued server command: /kill @e[type=minecraft:villager,name=Diamanti]
-[00:22:30] [Server thread/INFO]: Villager Villager['Diamanti'/460, uuid='3ec8d11c-20e9-4f27-9c8d-44d0a6df5d0a', l='ServerLevel[world]', x=-334.70, y=106.00, z=203.55, cpos=[-21, 12], tl=921, v=true] died, message: 'Diamanti was killed'
-[00:22:30] [Server thread/INFO]: Named entity Villager['Diamanti'/460, uuid='3ec8d11c-20e9-4f27-9c8d-44d0a6df5d0a', l='ServerLevel[world]', x=-334.70, y=106.00, z=203.55, cpos=[-21, 12], tl=921, v=true] died: Diamanti was killed
-[00:22:30] [Server thread/INFO]: [BlackPillona_94: Killed Diamanti]
-[00:22:32] [Server thread/INFO]: BlackPillona_94 issued server command: /kill @e[type=minecraft:villager,name=Diamanti]
-[00:22:35] [Server thread/INFO]: Villager Villager['Shepherd'/119, uuid='122661d9-6d64-4e20-9e44-3e27e21d4997', l='ServerLevel[world]', x=-333.54, y=105.50, z=203.15, cpos=[-21, 12], tl=1442039, v=true] died, message: 'Shepherd was slain by BlackPillona_94'
-[00:22:37] [Server thread/INFO]: Villager Villager['Shepherd'/117, uuid='e37adcb4-470d-44cb-abd7-0e9c4a017420', l='ServerLevel[world]', x=-334.88, y=105.50, z=201.43, cpos=[-21, 12], tl=1442010, v=true] died, message: 'Shepherd was slain by BlackPillona_94'
-[00:22:44] [Server thread/INFO]: BlackPillona_94 issued server command: /tp @e[type=minecraft:villager,name=Diamanti] @p
-[00:22:46] [Server thread/INFO]: Villager Villager['Shepherd'/118, uuid='2d970503-41b4-4152-a339-e4cc0decfef8', l='ServerLevel[world]', x=-336.43, y=105.50, z=207.53, cpos=[-22, 12], tl=1442216, v=true] died, message: 'Shepherd was slain by BlackPillona_94'
-[00:22:54] [Server thread/INFO]: BlackPillona_94 issued server command: /tp @e[type=minecraft:villager,name=Diamanti] @p
-[00:22:54] [Server thread/INFO]: [BlackPillona_94: Teleported Diamanti to BlackPillona_94]
-[00:27:07] [Server thread/INFO]: BlackPillona_94 issued server command: /tp @e[type=minecraft:villager,name="Spawn Mob"] @p
-[00:27:07] [Server thread/INFO]: [BlackPillona_94: Teleported Spawn Mob to BlackPillona_94]
-[00:27:21] [Server thread/INFO]: Villager Villager['Spawn Mob'/1145, uuid='7553f427-6d27-4896-8e0b-fcac28faf4be', l='ServerLevel[world]', x=-324.63, y=88.00, z=215.64, cpos=[-21, 13], tl=572, v=true] died, message: 'Spawn Mob was slain by BlackPillona_94'
-[00:27:21] [Server thread/INFO]: Named entity Villager['Spawn Mob'/1145, uuid='7553f427-6d27-4896-8e0b-fcac28faf4be', l='ServerLevel[world]', x=-324.63, y=88.00, z=215.64, cpos=[-21, 13], tl=572, v=true] died: Spawn Mob was slain by BlackPillona_94
-[00:28:01] [Server thread/INFO]: BlackPillona_94 issued server command: /kill @e[type=minecraft:villager,name="Spawn Mob"]
-[00:28:13] [Server thread/INFO]: BlackPillona_94 issued server command: /tp @e[type=minecraft:villager,name="Spawn Mob"] @p
-[00:28:13] [Server thread/INFO]: [BlackPillona_94: Teleported Spawn Mob to BlackPillona_94]
-[00:28:27] [Server thread/INFO]: BlackPillona_94 issued server command: /execute as @e[type=villager] at @e[name="Spawn Mob"] run tp @s ~ ~ ~ facing entity @p[distance=..10]
-[00:28:27] [Server thread/INFO]: [Diamanti: Teleported Diamanti to -331.527770, 102.500000, 213.306732]
-[00:28:27] [Server thread/INFO]: [Spawn Mob: Teleported Spawn Mob to -331.527770, 102.500000, 213.306732]
-[00:28:51] [Server thread/INFO]: BlackPillona_94 issued server command: /tp @e[type=minecraft:villager,name=Diamanti] @p
-[00:28:51] [Server thread/INFO]: [BlackPillona_94: Teleported Diamanti to BlackPillona_94]
-[00:29:52] [Server thread/INFO]: BlackPillona_94 issued server command: /kill @e[type=minecraft:villager,name="Spawn Mob"]
-[00:29:52] [Server thread/INFO]: Villager Villager['Spawn Mob'/1333, uuid='0660f584-4743-4037-8d59-261d13da4126', l='ServerLevel[world]', x=-331.53, y=102.50, z=213.31, cpos=[-21, 13], tl=2126, v=true] died, message: 'Spawn Mob was killed'
-[00:29:52] [Server thread/INFO]: Named entity Villager['Spawn Mob'/1333, uuid='0660f584-4743-4037-8d59-261d13da4126', l='ServerLevel[world]', x=-331.53, y=102.50, z=213.31, cpos=[-21, 13], tl=2126, v=true] died: Spawn Mob was killed
-[00:29:52] [Server thread/INFO]: [BlackPillona_94: Killed Spawn Mob]
-[00:29:57] [Server thread/INFO]: BlackPillona_94 issued server command: /kill @e[type=minecraft:villager,name="Diamanti"]
-[00:29:57] [Server thread/INFO]: Villager Villager['Diamanti'/601, uuid='8bd28f1e-29ae-44e8-bf02-c6461034dd4f', l='ServerLevel[world]', x=-334.62, y=106.00, z=203.67, cpos=[-21, 12], tl=8535, v=true] died, message: 'Diamanti was killed'
-[00:29:57] [Server thread/INFO]: Named entity Villager['Diamanti'/601, uuid='8bd28f1e-29ae-44e8-bf02-c6461034dd4f', l='ServerLevel[world]', x=-334.62, y=106.00, z=203.67, cpos=[-21, 12], tl=8535, v=true] died: Diamanti was killed
-[00:29:57] [Server thread/INFO]: [BlackPillona_94: Killed Diamanti]
-[00:30:23] [Server thread/INFO]: Villager Villager['Diamanti'/1632, uuid='75c14ed9-2c06-484b-a72b-2b790c5f9aa8', l='ServerLevel[world]', x=-326.86, y=103.00, z=218.14, cpos=[-21, 13], tl=304, v=true] died, message: 'Diamanti was slain by BlackPillona_94'
-[00:30:23] [Server thread/INFO]: Named entity Villager['Diamanti'/1632, uuid='75c14ed9-2c06-484b-a72b-2b790c5f9aa8', l='ServerLevel[world]', x=-326.86, y=103.00, z=218.14, cpos=[-21, 13], tl=304, v=true] died: Diamanti was slain by BlackPillona_94
-[00:31:12] [Server thread/INFO]: BlackPillona_94 issued server command: /tp @e[type=minecraft:villager,name=Diamanti] @p
-[00:31:12] [Server thread/INFO]: [BlackPillona_94: Teleported Diamanti to BlackPillona_94]
-[00:31:25] [Server thread/INFO]: BlackPillona_94 issued server command: /tp @e[type=minecraft:villager,name="Spawn Mob"] @p
-[00:31:25] [Server thread/INFO]: [BlackPillona_94: Teleported 2 entities to BlackPillona_94]
-[00:31:42] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode survival
-[00:31:42] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Survival Mode]
-[00:33:55] [Server thread/INFO]: BlackPillona_94 issued server command: /tp @e[type=minecraft:villager,name=Diamanti] @p
-[00:33:55] [Server thread/INFO]: [BlackPillona_94: Teleported Diamanti to BlackPillona_94]
-[00:47:07] [Server thread/INFO]: BlackPillona_96 lost connection: Disconnected
-[00:47:07] [Server thread/INFO]: BlackPillona_96 left the game
-[00:47:09] [Server thread/INFO]: BlackPillona_94 lost connection: Disconnected
-[00:47:09] [Server thread/INFO]: BlackPillona_94 left the game
-[07:59:37] [User Authenticator #1/INFO]: UUID of player ServerSeekerV2 is 48a01d2c-abfb-3ffb-8eb9-d162f11a9856
-[07:59:37] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:47692) lost connection: Disconnected
-[09:33:01] [User Authenticator #2/INFO]: UUID of player BlackPillona_96 is a05c8968-62c7-3ffb-bca7-bf07caf51f25
-[09:33:02] [Server thread/INFO]: BlackPillona_96 joined the game
-[09:33:02] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:51910] logged in with entity id 5255 at ([world]-311.4046508938722, 80.0, 117.31036301215667)
-[10:49:49] [Async Chat Thread - #0/INFO]: [Not Secure] <BlackPillona_96> -500 230
-[10:52:32] [Server thread/INFO]: BlackPillona_96 has made the advancement [Minecraft: Trial(s) Edition]
-[10:56:50] [Server thread/INFO]: BlackPillona_96 has made the advancement [Under Lock and Key]
-[11:20:55] [Async Chat Thread - #1/INFO]: [Not Secure] <BlackPillona_96> -760 -230
-[11:52:50] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode spectator
-[11:52:50] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Spectator Mode]
-[11:53:27] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode survival
-[11:53:27] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
-[11:53:30] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode spectator
-[11:53:30] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Spectator Mode]
-[11:54:07] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode survival
-[11:54:07] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
-[11:54:11] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode spectator
-[11:54:11] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Spectator Mode]
-[11:54:26] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode survival
-[11:54:26] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
-[11:59:23] [Async Chat Thread - #3/INFO]: [Not Secure] <BlackPillona_96> -1062 102
-[12:03:54] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode spectator
-[12:03:54] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Spectator Mode]
-[12:04:30] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode survival
-[12:04:30] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
-[12:14:26] [Server thread/WARN]: BlackPillona_96 moved wrongly!
-[12:18:25] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode creative
-[12:18:25] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Creative Mode]
-[12:18:46] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode survival
-[12:18:46] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
-[12:19:56] [Async Chat Thread - #5/INFO]: [Not Secure] <BlackPillona_96> -500 230
-[12:21:10] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode spectator
-[12:21:10] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Spectator Mode]
-[12:21:30] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode survival
-[12:21:30] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
-[12:21:47] [Server thread/INFO]: BlackPillona_96 has reached the goal [Revaulting]
-[12:32:19] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode creative
-[12:32:19] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Creative Mode]
-[12:32:33] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode survival
-[12:32:33] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
-[12:32:34] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode creative
-[12:32:34] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Creative Mode]
-[12:32:41] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode survival
-[12:32:41] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
-[13:00:24] [Server thread/INFO]: BlackPillona_96 fell from a high place
-[13:00:50] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode spectator
-[13:00:50] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Spectator Mode]
-[13:00:54] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode survival
-[13:00:54] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
-[13:02:12] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode creative
-[13:02:12] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Creative Mode]
-[13:02:16] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode survival
-[13:02:16] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
-[13:05:32] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode spectator
-[13:05:32] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Spectator Mode]
-[13:05:50] [Server thread/INFO]: BlackPillona_96 issued server command: /gamemode survival
-[13:05:50] [Server thread/INFO]: [BlackPillona_96: Set own game mode to Survival Mode]
-[13:48:37] [User Authenticator #3/INFO]: UUID of player BlackPillona_94 is e258d955-cdf3-3130-9910-bfeca184bfa7
-[13:48:37] [Server thread/INFO]: BlackPillona_94 joined the game
-[13:48:37] [Server thread/INFO]: BlackPillona_94[/81.56.36.157:24939] logged in with entity id 51776 at ([world]-322.883591397092, 88.0625, 141.2752817682386)
+[20:15:01] [ServerMain/INFO]: [bootstrap] Running Java 23 (Java HotSpot(TM) 64-Bit Server VM 23.0.1+11-39; Oracle Corporation null) on Linux 6.1.0-28-cloud-amd64 (amd64)
+[20:15:01] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-66-main@d00344a (2024-12-29T14:59:35Z) for Minecraft 1.21.4
+[20:15:01] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:15:02] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
+[20:15:02] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (6):
+ - BlueMap (5.5), ItemJoin (6.1.1-RELEASE-b1048), SkinsRestorer (15.5.1), TreeAssist (7.3.57), Veinminer (2.2.2), Warps (4.1.3)
+[20:15:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:15:10] [ServerMain/INFO]: Loaded 1370 recipes
+[20:15:10] [ServerMain/INFO]: Loaded 1481 advancements
+[20:15:10] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[20:15:10] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 270.9ms
+[20:15:10] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[20:15:10] [Server thread/INFO]: Loading properties
+[20:15:10] [Server thread/INFO]: This server is running Paper version 1.21.4-66-main@d00344a (2024-12-29T14:59:35Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[20:15:10] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:15:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:15:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:15:11] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[20:15:11] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[20:15:12] [Server thread/INFO]: Default game type: SURVIVAL
+[20:15:12] [Server thread/INFO]: Generating keypair
+[20:15:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:15:12] [Server thread/INFO]: Using epoll channel type
+[20:15:12] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:15:12] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[20:15:12] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loading 4 libraries... please wait
+[20:15:12] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/org/jetbrains/kotlin/kotlin-stdlib/2.1.0/kotlin-stdlib-2.1.0.jar
+[20:15:12] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
+[20:15:12] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json/1.7.3/kotlinx-serialization-json-1.7.3.jar
+[20:15:12] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.7.3/kotlinx-serialization-json-jvm-1.7.3.jar
+[20:15:12] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.jar
+[20:15:12] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.jar
+[20:15:12] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar
+[20:15:12] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/de/miraculixx/kpaper/1.2.1/kpaper-1.2.1.jar
+[20:15:12] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.1/kotlinx-coroutines-jdk8-1.7.1.jar
+[20:15:12] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.jar
+[20:15:12] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/server/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.jar
+[20:15:13] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[20:15:13] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.2.2
+[20:15:13] [Server thread/INFO]: [TreeAssist] Loading server plugin TreeAssist v7.3.57
+[20:15:13] [Server thread/INFO]: [TreeAssist] Loading main config file: /config.yml
+[20:15:14] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v5.5
+[20:15:14] [Server thread/INFO]: [ItemJoin] Loading server plugin ItemJoin v6.1.1-RELEASE-b1048
+[20:15:14] [Server thread/INFO]: [Warps] Loading server plugin Warps v4.1.3
+[20:15:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:15:14] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[20:15:14] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[20:15:15] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[20:15:16] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[20:15:16] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.2.2
+[20:15:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:15:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:15:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[20:15:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[20:15:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[20:15:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:15:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:15:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[20:15:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[20:15:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[20:15:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:15:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[20:15:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[20:15:16] [Server thread/INFO]: [ItemJoin] Enabling ItemJoin v6.1.1-RELEASE-b1048
+[20:15:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:15:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:15:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:15:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:15:16] [Server thread/INFO]: Preparing level "world"
+[20:15:16] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is up to date
+[20:15:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:15:17] [Server thread/INFO]: Preparing spawn area: 0%
+[20:15:17] [Server thread/INFO]: Preparing spawn area: 2%
+[20:15:18] [Server thread/INFO]: Preparing spawn area: 20%
+[20:15:18] [Server thread/INFO]: Time elapsed: 1257 ms
+[20:15:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:15:18] [Server thread/INFO]: Preparing spawn area: 0%
+[20:15:18] [Server thread/INFO]: Time elapsed: 372 ms
+[20:15:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:15:18] [Server thread/INFO]: Preparing spawn area: 0%
+[20:15:18] [Server thread/INFO]: Time elapsed: 120 ms
+[20:15:18] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v7.3.57
+[20:15:18] [Server thread/INFO]: [TreeAssist] sending full Metrics! You can deactivate this in the config.yml
+[20:15:18] [Server thread/INFO]: [TreeAssist] debugging: off
+[20:15:18] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.5
+[20:15:18] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
+[20:15:18] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[20:15:18] [Thread-12/INFO]: [TreeAssist] Checking for updates...
+[20:15:19] [Server thread/INFO]: [Warps] Enabling Warps v4.1.3
+[20:15:19] [Server thread/INFO]: [WarpsGUI] Plugin has started!
+[20:15:19] [Server thread/INFO]: [spark] Starting background profiler...
+[20:15:19] [Server thread/INFO]: Done preparing level "world" (3.472s)
+[20:15:19] [Server thread/INFO]: Running delayed init tasks
+[20:15:19] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Loading...
+[20:15:19] [Craft Scheduler Thread - 3 - ItemJoin/ERROR]: [ItemJoin_ERROR] Detected a unsupported version of Minecraft, expected: 1.21.3 or older!
+[20:15:19] [Craft Scheduler Thread - 3 - ItemJoin/ERROR]: [ItemJoin_ERROR] Attempting to run in NMS compatibility mode...
+[20:15:19] [Craft Scheduler Thread - 3 - ItemJoin/ERROR]: [ItemJoin_ERROR] Things may not work as expected, please check for plugin updates.
+[20:15:19] [Craft Scheduler Thread - 3 - ItemJoin/INFO]: [ItemJoin] Hooked into { SkinsRestorer }
+[20:15:20] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Downloading 'https://piston-data.mojang.com/v1/objects/a7e5a6024bfd3cd614625aa05629adf760020304/client.jar' to 'bluemap/minecraft-client-1.21.4.jar'...
+[20:15:20] [Server thread/INFO]: [ItemJoin] 1/1 Custom item(s) loaded!
+[20:15:20] [Server thread/INFO]: Done (20.911s)! For help, type "help"
+[20:15:20] [Craft Scheduler Thread - 3 - ItemJoin/INFO]: [ItemJoin] Checking for updates...
+[20:15:21] [Craft Scheduler Thread - 3 - ItemJoin/INFO]: [ItemJoin] You are up to date!
+[20:15:21] [Server thread/INFO]: BlackPillona_96 (/93.67.93.38:54970) lost connection: Disconnected
+[20:15:22] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Loading resources...
+[20:15:22] [User Authenticator #0/INFO]: UUID of player BlackPillona_96 is a05c8968-62c7-3ffb-bca7-bf07caf51f25
+[20:15:23] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Loading textures...
+[20:15:25] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Baking resources...
+[20:15:25] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Resources loaded.
+[20:15:25] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Initializing Storage: 'file' (Type: 'bluemap:file')
+[20:15:25] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Loading map 'world'...
+[20:15:25] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Loading map 'world_the_end'...
+[20:15:25] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Loading map 'world_nether'...
+[20:15:25] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] WebServer bound to all network interfaces on port 3000
+[20:15:25] [Thread-16/INFO]: [BlueMap] WebServer started.
+[20:15:25] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Loaded!
+[20:15:26] [User Authenticator #0/INFO]: UUID of player BlackPillona_96 is a05c8968-62c7-3ffb-bca7-bf07caf51f25
+[20:15:27] [Server thread/INFO]: BlackPillona_96 joined the game
+[20:15:28] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:54973] logged in with entity id 47 at ([world]-310.8349521690439, 80.0, 118.05775154279468)
+[20:15:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2555ms or 51 ticks behind
+[20:15:58] [User Authenticator #0/INFO]: UUID of player BlackPillona_94 is e258d955-cdf3-3130-9910-bfeca184bfa7
+[20:15:59] [Server thread/INFO]: BlackPillona_94 joined the game
+[20:15:59] [Server thread/INFO]: BlackPillona_94[/81.56.36.157:26952] logged in with entity id 435 at ([world]-312.0357594692287, 80.0, 110.22645364254794)
+[20:16:01] [Server thread/INFO]: BlackPillona_94 lost connection: Disconnected
+[20:16:01] [Server thread/INFO]: BlackPillona_94 left the game
+[20:16:05] [User Authenticator #0/INFO]: UUID of player BlackPillona_94 is e258d955-cdf3-3130-9910-bfeca184bfa7
+[20:16:06] [Server thread/INFO]: BlackPillona_94 joined the game
+[20:16:06] [Server thread/INFO]: BlackPillona_94[/81.56.36.157:30410] logged in with entity id 447 at ([world]-312.0357594692287, 80.0, 110.22645364254794)
+[20:18:28] [Server thread/INFO]: BlackPillona_94 issued server command: /pl
+[20:18:36] [Server thread/INFO]: BlackPillona_94 issued server command: /bluemap
+[20:18:50] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode spectator
+[20:18:51] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Spectator Mode]
+[20:19:06] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode survival
+[20:19:06] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Survival Mode]
+[20:19:20] [Server thread/INFO]: BlackPillona_94 lost connection: Disconnected
+[20:19:20] [Server thread/INFO]: BlackPillona_94 left the game
+[20:19:25] [User Authenticator #1/INFO]: UUID of player BlackPillona_94 is e258d955-cdf3-3130-9910-bfeca184bfa7
+[20:19:25] [Server thread/INFO]: BlackPillona_94 joined the game
+[20:19:25] [Server thread/INFO]: BlackPillona_94[/81.56.36.157:17523] logged in with entity id 1303 at ([world]-304.1385621679776, 89.9375, 123.8342372863788)
+[20:22:13] [User Authenticator #2/INFO]: UUID of player ExEnry is 724d1c1c-ad79-3f05-91e2-d008afeaa6d5
+[20:22:13] [Server thread/INFO]: ExEnry joined the game
+[20:22:13] [Server thread/INFO]: ExEnry[/91.254.74.218:64405] logged in with entity id 3941 at ([world]-703.3668429713382, 81.0, 15.694543320829437)
+[20:22:54] [Server thread/INFO]: ExEnry has made the advancement [Ice Bucket Challenge]
+[20:25:36] [Server thread/INFO]: ExEnry has made the advancement [Cover Me with Diamonds]
+[20:27:08] [Server thread/INFO]: BlackPillona_94 issued server command: /bluemap
+[20:29:01] [Server thread/INFO]: Villager Villager['Farmer'/5722, uuid='a994bd74-a26a-4b1a-a437-51913966fce4', l='ServerLevel[world]', x=-1577.21, y=73.94, z=-451.54, cpos=[-99, -29], tl=5828, v=true] died, message: 'Farmer was slain by Zombie Villager'
+[20:29:24] [Server thread/INFO]: ExEnry has made the advancement [Hot Stuff]
+[20:30:36] [Server thread/INFO]: ExEnry has made the advancement [The End?]
+[20:31:27] [Server thread/INFO]: Villager Villager['Librarian'/5979, uuid='34abf473-f2eb-42bd-8cb7-598d2e4117aa', l='ServerLevel[world]', x=-1616.93, y=63.54, z=-401.47, cpos=[-102, -26], tl=8637, v=true] died, message: 'Librarian was slain by BlackPillona_96'
+[20:31:35] [Server thread/INFO]: BlackPillona_96 lost connection: Disconnected
+[20:31:35] [Server thread/INFO]: BlackPillona_96 left the game
+[20:32:47] [User Authenticator #3/INFO]: UUID of player BlackPillona_96 is a05c8968-62c7-3ffb-bca7-bf07caf51f25
+[20:32:47] [Server thread/INFO]: BlackPillona_96 joined the game
+[20:32:47] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:55184] logged in with entity id 9115 at ([world]-1616.949999988079, 63.125, -401.69999998807907)
+[20:45:17] [Async Chat Thread - #0/INFO]: [Not Secure] <BlackPillona_94> ggg
+[20:45:31] [Server thread/INFO]: BlackPillona_94 issued server command: /bluemap
+[20:45:37] [Server thread/INFO]: BlackPillona_94 issued server command: /bluemap
+[20:45:39] [Server thread/INFO]: BlackPillona_94 issued server command: /bluemap help
+[20:45:51] [Server thread/INFO]: BlackPillona_94 issued server command: /bluemap stop
+[20:48:08] [User Authenticator #4/INFO]: UUID of player Arroddugo777 is a2433b56-a87d-344d-aa22-e37864939484
+[20:48:08] [Server thread/INFO]: Arroddugo777 joined the game
+[20:48:08] [Server thread/INFO]: Arroddugo777[/84.220.104.214:53569] logged in with entity id 15582 at ([world]-40.5, 88.0, -16.5)
+[20:49:52] [Server thread/INFO]: BlackPillona_94 issued server command: /op Arroddugo777
+[20:49:52] [Server thread/INFO]: [BlackPillona_94: Made Arroddugo777 a server operator]
+[20:51:06] [Server thread/INFO]: Arroddugo777 has made the advancement [Sweet Dreams]
+[20:51:07] [Server thread/INFO]: ExEnry has made the advancement [Sweet Dreams]
+[20:52:47] [Async Chat Thread - #2/INFO]: [Not Secure] <BlackPillona_94> 1603 // 491
+[20:53:26] [Async Chat Thread - #2/INFO]: [Not Secure] <BlackPillona_94> 200 61
+[20:55:14] [Server thread/INFO]: BlackPillona_94 issued server command: /home casa
+[20:56:54] [Server thread/INFO]: Arroddugo777 has made the advancement [Acquire Hardware]
+[20:57:09] [Server thread/INFO]: Arroddugo777 has made the advancement [Suit Up]
+[20:57:22] [Server thread/WARN]: ExEnry moved too quickly! -0.23520070081144695,5.124000078439963,8.728128268289495
+[20:57:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3825ms or 76 ticks behind
+[20:59:28] [Async Chat Thread - #4/INFO]: [Not Secure] <BlackPillona_94> 1603 // 491
+[21:01:16] [Server thread/INFO]: Arroddugo777 has made the advancement [Stone Age]
+[21:01:35] [Server thread/INFO]: BlackPillona_94 issued server command: /sethome 2
+[21:01:52] [Server thread/INFO]: Arroddugo777 has made the advancement [Monster Hunter]
+[21:01:53] [Server thread/INFO]: BlackPillona_94 issued server command: /home
+[21:02:05] [Async Chat Thread - #6/INFO]: [Not Secure] <BlackPillona_94> 2306 -797
+[21:03:13] [Server thread/WARN]: BlackPillona_94 moved wrongly!
+[21:03:22] [Server thread/INFO]: BlackPillona_94 issued server command: /setwarp palude
+[21:03:24] [Server thread/ERROR]: Could not pass event InventoryClickEvent to Warps v4.1.3
+java.lang.NoClassDefFoundError: org/bukkit/craftbukkit/v1_21_R1/entity/CraftPlayer
+	at minecraft-warps-gui-4.1.3.jar/ch.vertus.anvilgui.version.Wrapper1_21_R1.toNMS(Wrapper1_21_R1.java:32) ~[minecraft-warps-gui-4.1.3.jar:?]
+	at minecraft-warps-gui-4.1.3.jar/ch.vertus.anvilgui.version.Wrapper1_21_R1.getRealNextContainerId(Wrapper1_21_R1.java:22) ~[minecraft-warps-gui-4.1.3.jar:?]
+	at minecraft-warps-gui-4.1.3.jar/ch.vertus.anvilgui.version.Wrapper1_21_R1.newContainerAnvil(Wrapper1_21_R1.java:81) ~[minecraft-warps-gui-4.1.3.jar:?]
+	at minecraft-warps-gui-4.1.3.jar/ch.vertus.anvilgui.AnvilGUI.openInventory(AnvilGUI.java:171) ~[minecraft-warps-gui-4.1.3.jar:?]
+	at minecraft-warps-gui-4.1.3.jar/ch.vertus.anvilgui.AnvilGUI.access$1000(AnvilGUI.java:38) ~[minecraft-warps-gui-4.1.3.jar:?]
+	at minecraft-warps-gui-4.1.3.jar/ch.vertus.anvilgui.AnvilGUI$Builder.open(AnvilGUI.java:684) ~[minecraft-warps-gui-4.1.3.jar:?]
+	at minecraft-warps-gui-4.1.3.jar/ch.vertus.warps.GUI.ClickEvent.OnInventoryClick(ClickEvent.java:609) ~[minecraft-warps-gui-4.1.3.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3160) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:14) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:29) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1448) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1422) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:118) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1383) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[?:?]
+Caused by: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.v1_21_R1.entity.CraftPlayer
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:528) ~[?:?]
+	... 29 more
+[21:05:56] [Server thread/INFO]: BlackPillona_96 issued server command: /removewarp Mob Spawner
+[21:06:05] [Server thread/INFO]: BlackPillona_96 issued server command: /removewarp Mob_Spawner
+[21:06:23] [Server thread/INFO]: BlackPillona_96 issued server command: /removewarp Sabbia-Abeti
+[21:09:03] [Server thread/INFO]: BlackPillona_96 issued server command: /removewarp deserto
+[21:10:10] [Server thread/INFO]: Arroddugo777 has made the advancement [Diamonds!]
+[21:14:03] [Server thread/INFO]: ExEnry has made the advancement [A Terrible Fortress]
+[21:14:13] [Server thread/INFO]: ExEnry has made the advancement [Into Fire]
+[21:15:23] [Server thread/INFO]: Arroddugo777 has made the advancement [Not Today, Thank You]
+[21:16:18] [Server thread/INFO]: ExEnry has made the advancement [Spooky Scary Skeleton]
+[21:17:01] [Server thread/INFO]: ExEnry lost connection: Disconnected
+[21:17:01] [Server thread/INFO]: ExEnry left the game
+[21:17:43] [User Authenticator #5/INFO]: UUID of player ExEnry is 724d1c1c-ad79-3f05-91e2-d008afeaa6d5
+[21:17:43] [Server thread/INFO]: ExEnry joined the game
+[21:17:43] [Server thread/INFO]: ExEnry[/91.254.74.218:54541] logged in with entity id 38127 at ([world_nether]679.708807282736, 26.78468299922467, 200.5475902431542)
+[21:19:11] [Server thread/INFO]: Arroddugo777 lost connection: Disconnected
+[21:19:11] [Server thread/INFO]: Arroddugo777 left the game
+[21:19:37] [User Authenticator #6/INFO]: UUID of player Arroddugo777 is a2433b56-a87d-344d-aa22-e37864939484
+[21:19:37] [Server thread/INFO]: Arroddugo777 joined the game
+[21:19:37] [Server thread/INFO]: Arroddugo777[/84.220.104.214:53837] logged in with entity id 39226 at ([world]-120.38933559402811, -32.0, 140.78347389536728)
+[21:20:32] [Server thread/INFO]: Arroddugo777 lost connection: Disconnected
+[21:20:32] [Server thread/INFO]: Arroddugo777 left the game
+[21:20:44] [User Authenticator #7/INFO]: UUID of player Arroddugo777 is a2433b56-a87d-344d-aa22-e37864939484
+[21:20:44] [Server thread/INFO]: Arroddugo777 joined the game
+[21:20:44] [Server thread/INFO]: Arroddugo777[/84.220.104.214:53848] logged in with entity id 39707 at ([world]-162.9733340668728, -29.0, 147.6973462602064)
+[21:20:59] [Server thread/INFO]: Arroddugo777 lost connection: Disconnected
+[21:20:59] [Server thread/INFO]: Arroddugo777 left the game
+[21:21:15] [Server thread/INFO]: BlackPillona_94 issued server command: /deop Arroddugo777
+[21:21:15] [Server thread/INFO]: [BlackPillona_94: Made Arroddugo777 no longer a server operator]
+[21:21:30] [Server thread/INFO]: BlackPillona_94 issued server command: /w BlackPillona_96 l'ho deoppato
+[21:21:43] [Async Chat Thread - #9/INFO]: [Not Secure] <BlackPillona_94> lho deoppato reaghi non puo fare warp
+[21:22:16] [Async Chat Thread - #9/INFO]: [Not Secure] <BlackPillona_96> la direttascemo
+[21:22:47] [User Authenticator #8/INFO]: UUID of player Arroddugo777 is a2433b56-a87d-344d-aa22-e37864939484
+[21:22:47] [Server thread/INFO]: Arroddugo777 joined the game
+[21:22:47] [Server thread/INFO]: Arroddugo777[/84.220.104.214:53880] logged in with entity id 40403 at ([world]-175.86336275481068, -28.0, 153.60209914566047)
+[21:22:51] [Server thread/INFO]: BlackPillona_96 issued server command: /tp BlackPillona_94
+[21:22:51] [Server thread/INFO]: [BlackPillona_96: Teleported BlackPillona_96 to BlackPillona_94]
+[21:23:04] [Server thread/INFO]: Arroddugo777 lost connection: Disconnected
+[21:23:04] [Server thread/INFO]: Arroddugo777 left the game
+[21:23:07] [Server thread/INFO]: BlackPillona_94 issued server command: /w BlackPillona_96 FERMO NEEE CHE LO VEDONO SE USIAMO I COMADNI
+[21:23:16] [User Authenticator #8/INFO]: UUID of player Arroddugo777 is a2433b56-a87d-344d-aa22-e37864939484
+[21:23:16] [Server thread/INFO]: Arroddugo777 joined the game
+[21:23:16] [Server thread/INFO]: Arroddugo777[/84.220.104.214:53922] logged in with entity id 40627 at ([world]-299.76766140112534, 90.5, 113.18546953162495)
+[21:23:28] [Server thread/INFO]: Arroddugo777 has made the advancement [Cover Me with Diamonds]
+[21:24:02] [Server thread/INFO]: Arroddugo777 lost connection: Disconnected
+[21:24:02] [Server thread/INFO]: Arroddugo777 left the game
+[21:24:04] [User Authenticator #8/INFO]: UUID of player Arroddugo777 is a2433b56-a87d-344d-aa22-e37864939484
+[21:24:04] [Server thread/INFO]: Arroddugo777 joined the game
+[21:24:04] [Server thread/INFO]: Arroddugo777[/84.220.104.214:53936] logged in with entity id 40962 at ([world]-313.72517082712494, 80.0, 116.76249998807907)
+[21:24:06] [Server thread/INFO]: Arroddugo777 lost connection: Disconnected
+[21:24:06] [Server thread/INFO]: Arroddugo777 left the game
+[21:24:16] [User Authenticator #8/INFO]: UUID of player Arroddugo777 is a2433b56-a87d-344d-aa22-e37864939484
+[21:24:17] [Server thread/INFO]: Arroddugo777 joined the game
+[21:24:17] [Server thread/INFO]: Arroddugo777[/84.220.104.214:53955] logged in with entity id 41115 at ([world]-313.72517082712494, 80.0, 116.76249998807907)

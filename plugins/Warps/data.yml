@@ -27,33 +27,6 @@ warps:
     yaw: 87.29544
     world: world
     icon: SPAWNER
-  Villaggio:
-    needsPermission: false
-    world: world
-    x: -296.30000001192093
-    y: 109.0
-    z: 592.0213860436361
-    pitch: 7.49996
-    yaw: -118.491394
-    icon: BELL
-  Sabbia-Abeti:
-    needsPermission: false
-    world: world
-    x: 825.199036095433
-    y: 70.0
-    z: -811.6036898259789
-    pitch: 17.9044
-    yaw: -176.4356
-    icon: SAND
-  Lava:
-    needsPermission: false
-    world: world_nether
-    x: -82.65826798878804
-    y: 33.0
-    z: 62.33443069120019
-    pitch: 56.70046
-    yaw: -87.623474
-    icon: LAVA_BUCKET
   Blaze:
     needsPermission: false
     world: world_nether
@@ -99,14 +72,6 @@ warps:
     pitch: 18.384377
     yaw: 11.673462
     icon: SCULK_SENSOR
-  deserto:
-    x: 14519.507
-    y: 64.0
-    z: 1567.6636
-    pitch: 5.3750277
-    yaw: 126.882324
-    world: world
-    icon: INFESTED_STONE_BRICKS
   End Portal:
     x: -374.9351
     y: 19.5
@@ -131,7 +96,53 @@ warps:
     yaw: -41.738403
     world: world
     icon: SOUL_SAND
-
-
-
-homes: ''
+  palude:
+    x: 2352.218
+    y: 63.0
+    z: -561.1388
+    pitch: 6.541292
+    yaw: -39.7358
+    world: world
+    icon: AZALEA
+  Mending:
+    x: -1615.3
+    y: 67.0
+    z: -389.3145
+    pitch: 70.950035
+    yaw: -94.81466
+    world: world
+    icon: ELYTRA
+  Deserto:
+    x: 14524.014
+    y: 64.0
+    z: 1568.6447
+    pitch: 6.8750267
+    yaw: -93.31766
+    world: world
+    icon: SAND
+homes:
+  e258d955-cdf3-3130-9910-bfeca184bfa7:
+    casa:
+      x: -309.2281
+      y: 96.0625
+      z: 107.020546
+      pitch: 36.714184
+      yaw: 22.746643
+      world: world
+      icon: GRASS_BLOCK
+    casa2:
+      x: -693.62476
+      y: 107.0
+      z: 19.677244
+      pitch: 29.459223
+      yaw: 25.062286
+      world: world
+      icon: DIORITE
+    '2':
+      x: 1970.7423
+      y: 63.0
+      z: 145.39133
+      pitch: 51.77189
+      yaw: -177.13087
+      world: world
+      icon: POLISHED_GRANITE
