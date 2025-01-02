@@ -123,6 +123,14 @@ warps:
     yaw: -30.935913
     world: world_the_end
     icon: ENDER_PEARL
+  Wither:
+    x: -236.47665
+    y: -47.0
+    z: 2.8092213
+    pitch: 18.82051
+    yaw: -41.738403
+    world: world
+    icon: SOUL_SAND
 
 
 
