@@ -1,5 +1,5 @@
 {
-  "render-threads-enabled": false,
+  "render-threads-enabled": true,
   "maps": {
     "world": {
       "update-enabled": true

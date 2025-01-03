@@ -120,6 +120,14 @@ warps:
     yaw: -93.31766
     world: world
     icon: SAND
+  Mesa:
+    x: 15289.629
+    y: 77.0
+    z: 1471.603
+    pitch: 15.750063
+    yaw: 52.640385
+    world: world
+    icon: PINK_TERRACOTTA
 homes:
   e258d955-cdf3-3130-9910-bfeca184bfa7:
     casa:
@@ -146,3 +154,11 @@ homes:
       yaw: -177.13087
       world: world
       icon: POLISHED_GRANITE
+    casa3:
+      x: -235.27547
+      y: 88.0
+      z: 110.10177
+      pitch: 19.936016
+      yaw: 93.87869
+      world: world
+      icon: DIORITE
