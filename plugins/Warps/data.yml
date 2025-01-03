@@ -138,27 +138,3 @@ homes:
       yaw: 22.746643
       world: world
       icon: GRASS_BLOCK
-    casa2:
-      x: -693.62476
-      y: 107.0
-      z: 19.677244
-      pitch: 29.459223
-      yaw: 25.062286
-      world: world
-      icon: DIORITE
-    '2':
-      x: 1970.7423
-      y: 63.0
-      z: 145.39133
-      pitch: 51.77189
-      yaw: -177.13087
-      world: world
-      icon: POLISHED_GRANITE
-    casa3:
-      x: -235.27547
-      y: 88.0
-      z: 110.10177
-      pitch: 19.936016
-      yaw: 93.87869
-      world: world
-      icon: DIORITE
