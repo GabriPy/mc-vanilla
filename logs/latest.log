@@ -1,1145 +1,128 @@
-[01:25:44] [User Authenticator #5/INFO]: UUID of player BlackPillona_94 is e258d955-cdf3-3130-9910-bfeca184bfa7
-[01:25:45] [Server thread/INFO]: BlackPillona_94 joined the game
-[01:25:45] [Server thread/INFO]: BlackPillona_94[/81.56.36.157:28997] logged in with entity id 54041 at ([world]-307.7610427367597, 80.5625, 111.36856367507396)
-[01:27:10] [Server thread/INFO]: The difficulty has been set to Hard
-[01:27:16] [Server thread/INFO]: Incorrect argument for command
-gamerule randomtickspeed<--[HERE]
-[01:27:24] [Server thread/INFO]: Gamerule randomTickSpeed is currently set to: 100
-[01:27:26] [Server thread/INFO]: Gamerule randomTickSpeed is now set to: 3
-[01:33:51] [Server thread/INFO]: BlackPillona_94 lost connection: Disconnected
-[01:33:51] [Server thread/INFO]: BlackPillona_94 left the game
-[01:33:56] [User Authenticator #6/INFO]: UUID of player BlackPillona_94 is e258d955-cdf3-3130-9910-bfeca184bfa7
-[01:33:57] [Server thread/INFO]: BlackPillona_94 joined the game
-[01:33:57] [Server thread/INFO]: BlackPillona_94[/81.56.36.157:28908] logged in with entity id 55722 at ([world]-233.51020024814432, 88.0, 95.9628313740353)
-[01:52:15] [Async Chat Thread - #3/INFO]: [Not Secure] <BlackPillona_94> cazzo ci f asu ds se gioca a un altro gioco
-[01:52:35] [Async Chat Thread - #3/INFO]: [Not Secure] <BlackPillona_96> bolanceddu
-[01:52:45] [Async Chat Thread - #3/INFO]: [Not Secure] <BlackPillona_94> mabba basta grisarlo esce dasolo
-[01:52:50] [Async Chat Thread - #3/INFO]: [Not Secure] <BlackPillona_94> col broncio anceh
-[02:00:58] [Async Chat Thread - #5/INFO]: [Not Secure] <BlackPillona_94> coal?w
-[02:09:16] [Server thread/INFO]: BlackPillona_94 issued server command: /pl
-[02:09:20] [Server thread/INFO]: BlackPillona_94 issued server command: /about
-[02:09:27] [Server thread/INFO]: BlackPillona_94 issued server command: //wand
-[02:09:37] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode creative
-[02:10:36] [Async Chat Thread - #7/INFO]: [Not Secure] <BlackPillona_96> che peccato
-[02:10:38] [Async Chat Thread - #7/INFO]: [Not Secure] <BlackPillona_94> hahahha
-[02:12:44] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[02:12:44] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[02:15:21] [User Authenticator #7/INFO]: UUID of player Arroddugo777 is a2433b56-a87d-344d-aa22-e37864939484
-[02:15:21] [Server thread/INFO]: Disconnecting Arroddugo777 (/84.220.104.214:50916): You are not whitelisted on this server!
-[02:15:21] [Server thread/INFO]: Arroddugo777 (/84.220.104.214:50916) lost connection: You are not whitelisted on this server!
-[02:15:47] [Server thread/INFO]: Added Arroddugo777 to the whitelist
-[02:17:01] [User Authenticator #8/INFO]: UUID of player Arroddugo777 is a2433b56-a87d-344d-aa22-e37864939484
-[02:17:02] [Server thread/INFO]: Arroddugo777 joined the game
-[02:17:02] [Server thread/INFO]: Arroddugo777[/84.220.104.214:50927] logged in with entity id 64184 at ([world]15555.769087603763, 103.0, 1708.6408476862146)
-[02:19:14] [Server thread/INFO]: Arroddugo777 lost connection: Disconnected
-[02:19:14] [Server thread/INFO]: Arroddugo777 left the game
-[02:19:47] [User Authenticator #9/INFO]: UUID of player Arroddugo777 is a2433b56-a87d-344d-aa22-e37864939484
-[02:19:47] [Server thread/INFO]: Arroddugo777 joined the game
-[02:19:47] [Server thread/INFO]: Arroddugo777[/84.220.104.214:50974] logged in with entity id 64885 at ([world]15538.335239476453, 105.0, 1733.2488866616588)
-[02:23:10] [Server thread/INFO]: BlackPillona_94 issued server command: /locate biome #minecraft:allows_surface_slime_spawns
-[02:27:47] [Server thread/INFO]: BlackPillona_94 issued server command: /w BlackPillona_96 gia esplorata iow
-[02:37:43] [Server thread/INFO]: Villager Villager['Villager'/70807, uuid='02f7cd80-0a69-4230-b88f-11a73b97a39d', l='ServerLevel[world]', x=15941.07, y=64.00, z=1744.70, cpos=[996, 109], tl=497, v=true] died, message: 'Villager suffocated in a wall'
-[02:44:18] [Server thread/INFO]: Villager Villager['Leatherworker'/70773, uuid='909ed9cb-7635-438d-bb28-f2b6121b4808', l='ServerLevel[world]', x=15933.55, y=64.02, z=1709.17, cpos=[995, 106], tl=8514, v=true] died, message: 'Leatherworker was slain by Vindicator'
-[02:44:19] [Server thread/INFO]: Made BlackPillona_94 a server operator
-[02:44:20] [Server thread/INFO]: Villager Villager['Farmer'/70766, uuid='740a9761-3307-46b8-83df-9a2917dfbb5d', l='ServerLevel[world]', x=15921.70, y=63.42, z=1694.15, cpos=[995, 105], tl=8555, v=true] died, message: 'Farmer was slain by Vindicator'
-[02:44:23] [Server thread/INFO]: Villager Villager['Villager'/70765, uuid='0432e004-3f24-40dd-989a-54862c6153dd', l='ServerLevel[world]', x=15927.51, y=64.00, z=1729.01, cpos=[995, 108], tl=8622, v=true] died, message: 'Villager was slain by Vindicator'
-[02:44:33] [Server thread/INFO]: Villager Villager['Farmer'/70805, uuid='861fa9a4-60da-4d61-a40f-20d47c58bb8f', l='ServerLevel[world]', x=15922.45, y=64.00, z=1707.55, cpos=[995, 106], tl=8705, v=true] died, message: 'Farmer was slain by Vindicator'
-[02:44:44] [Server thread/INFO]: Villager Villager['Farmer'/70769, uuid='ef492b41-2187-46a9-8b88-a1d630cfa2a3', l='ServerLevel[world]', x=15944.79, y=63.00, z=1713.46, cpos=[996, 107], tl=9034, v=true] died, message: 'Farmer was slain by Vindicator'
-[02:45:06] [Server thread/INFO]: BlackPillona_94 issued server command: /tellraw @a {"text":"Arroddugo777 was slain by a Pillager","color":"yellow"}
-[02:45:14] [Server thread/INFO]: BlackPillona_94 issued server command: /deop BlackPillona_94
-[02:45:14] [Server thread/INFO]: [BlackPillona_94: Made BlackPillona_94 no longer a server operator]
-[02:45:39] [Server thread/INFO]: Removed every effect from 3 targets
-[02:46:41] [Server thread/INFO]: Made BlackPillona_94 a server operator
-[02:46:52] [Server thread/INFO]: BlackPillona_94 issued server command: /tp @e[name="Papa Francesco"] @p
-[02:47:00] [Server thread/INFO]: Villager Villager['Butcher'/70777, uuid='6c1ce77a-412e-4902-95e4-d9cba9cbeef7', l='ServerLevel[world]', x=15929.30, y=67.00, z=1760.49, cpos=[995, 110], tl=11760, v=true] died, message: 'Butcher was slain by Vindicator'
-[02:47:13] [Server thread/INFO]: BlackPillona_94 issued server command: /tp @e[name="Papa Francesco"] @p
-[02:47:13] [Server thread/INFO]: [BlackPillona_94: Teleported Papa Francesco to BlackPillona_94]
-[02:47:17] [Server thread/INFO]: BlackPillona_94 issued server command: /tp @e[name="Papa Francesco"] @p
-[02:47:20] [Server thread/INFO]: BlackPillona_94 issued server command: /tp @e[name="Papa Francesco"] @p
-[02:47:21] [Server thread/INFO]: BlackPillona_94 issued server command: /tp @e[name="Papa Francesco"] @p
-[02:47:21] [Server thread/INFO]: BlackPillona_94 issued server command: /tp @e[name="Papa Francesco"] @p
-[02:47:29] [Server thread/INFO]: BlackPillona_94 issued server command: /tp @e[name="Papa Francesco"] @p
-[02:47:29] [Server thread/INFO]: [BlackPillona_94: Teleported Papa Francesco to BlackPillona_94]
-[02:48:00] [Server thread/INFO]: BlackPillona_94 issued server command: /deop BlackPillona_94
-[02:48:00] [Server thread/INFO]: [BlackPillona_94: Made BlackPillona_94 no longer a server operator]
-[02:51:07] [Server thread/INFO]: BlackPillona_96 issued server command: /setwarp MAGAZZINO
-[02:51:51] [User Authenticator #10/INFO]: UUID of player ExEnry is 724d1c1c-ad79-3f05-91e2-d008afeaa6d5
-[02:51:52] [Server thread/INFO]: ExEnry joined the game
-[02:51:52] [Server thread/INFO]: ExEnry[/91.254.74.218:51706] logged in with entity id 77271 at ([world]-310.76165243940375, 80.0, 118.71518132477432)
-[02:52:40] [Server thread/INFO]: Made BlackPillona_96 a server operator
-[02:52:47] [Server thread/INFO]: BlackPillona_96 issued server command: /setwarp MAGAZZINO
-[02:53:42] [Server thread/INFO]: BlackPillona_96 issued server command: /deop BlackPillona_96
-[02:53:42] [Server thread/INFO]: [BlackPillona_96: Made BlackPillona_96 no longer a server operator]
-[02:55:00] [Server thread/INFO]: Made Arroddugo777 a server operator
-[02:55:05] [Async Chat Thread - #10/INFO]: [Not Secure] <BlackPillona_94> ./setwarp <Nome>
-[02:55:21] [Async Chat Thread - #10/INFO]: [Not Secure] <BlackPillona_94> ./setwarp <Nome>
-[02:55:37] [Server thread/INFO]: Arroddugo777 issued server command: /setwarp coralli
-[02:55:40] [Server thread/ERROR]: Could not pass event InventoryClickEvent to Warps v4.1.3
-java.lang.NoClassDefFoundError: org/bukkit/craftbukkit/v1_21_R1/entity/CraftPlayer
-	at minecraft-warps-gui-4.1.3.jar/ch.vertus.anvilgui.version.Wrapper1_21_R1.toNMS(Wrapper1_21_R1.java:32) ~[minecraft-warps-gui-4.1.3.jar:?]
-	at minecraft-warps-gui-4.1.3.jar/ch.vertus.anvilgui.version.Wrapper1_21_R1.getRealNextContainerId(Wrapper1_21_R1.java:22) ~[minecraft-warps-gui-4.1.3.jar:?]
-	at minecraft-warps-gui-4.1.3.jar/ch.vertus.anvilgui.version.Wrapper1_21_R1.newContainerAnvil(Wrapper1_21_R1.java:81) ~[minecraft-warps-gui-4.1.3.jar:?]
-	at minecraft-warps-gui-4.1.3.jar/ch.vertus.anvilgui.AnvilGUI.openInventory(AnvilGUI.java:171) ~[minecraft-warps-gui-4.1.3.jar:?]
-	at minecraft-warps-gui-4.1.3.jar/ch.vertus.anvilgui.AnvilGUI.access$1000(AnvilGUI.java:38) ~[minecraft-warps-gui-4.1.3.jar:?]
-	at minecraft-warps-gui-4.1.3.jar/ch.vertus.anvilgui.AnvilGUI$Builder.open(AnvilGUI.java:684) ~[minecraft-warps-gui-4.1.3.jar:?]
-	at minecraft-warps-gui-4.1.3.jar/ch.vertus.warps.GUI.ClickEvent.OnInventoryClick(ClickEvent.java:609) ~[minecraft-warps-gui-4.1.3.jar:?]
-	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3160) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
-	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
-	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:14) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
-	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:29) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1448) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1422) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1379) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1387) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
-	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-66-d00344a]
-	at java.base/java.lang.Thread.run(Thread.java:1575) ~[?:?]
-Caused by: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.v1_21_R1.entity.CraftPlayer
-	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
-	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:528) ~[?:?]
-	... 30 more
-[02:57:09] [Server thread/INFO]: Arroddugo777 lost connection: Disconnected
-[02:57:09] [Server thread/INFO]: Arroddugo777 left the game
-[02:57:15] [User Authenticator #11/INFO]: UUID of player Arroddugo777 is a2433b56-a87d-344d-aa22-e37864939484
-[02:57:16] [Server thread/INFO]: Arroddugo777 joined the game
-[02:57:16] [Server thread/INFO]: Arroddugo777[/84.220.104.214:51142] logged in with entity id 81023 at ([world]16357.007148323883, 61.854396045874836, 1413.3020243557303)
-[02:57:23] [Server thread/INFO]: ExEnry lost connection: Disconnected
-[02:57:23] [Server thread/INFO]: ExEnry left the game
-[02:57:26] [Server thread/INFO]: BlackPillona_96 lost connection: Disconnected
-[02:57:26] [Server thread/INFO]: BlackPillona_96 left the game
-[02:57:30] [Server thread/INFO]: Arroddugo777 lost connection: Disconnected
-[02:57:30] [Server thread/INFO]: Arroddugo777 left the game
-[02:57:33] [User Authenticator #11/INFO]: UUID of player BlackPillona_96 is a05c8968-62c7-3ffb-bca7-bf07caf51f25
-[02:57:34] [User Authenticator #11/INFO]: UUID of player Arroddugo777 is a2433b56-a87d-344d-aa22-e37864939484
-[02:57:34] [Server thread/INFO]: BlackPillona_96 joined the game
-[02:57:34] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:50772] logged in with entity id 81134 at ([world]-290.67265457259333, 86.0, 133.92500001192093)
-[02:57:34] [Server thread/INFO]: Arroddugo777 joined the game
-[02:57:34] [Server thread/INFO]: Arroddugo777[/84.220.104.214:51151] logged in with entity id 81135 at ([world]-308.57759376428294, 92.0, 111.99832303343858)
-[02:57:35] [User Authenticator #11/INFO]: UUID of player ExEnry is 724d1c1c-ad79-3f05-91e2-d008afeaa6d5
-[02:57:35] [Server thread/INFO]: ExEnry joined the game
-[02:57:35] [Server thread/INFO]: ExEnry[/91.254.74.218:52035] logged in with entity id 81137 at ([world]-308.5976720507983, 80.0, 112.890205556713)
-[02:59:23] [Server thread/INFO]: Arroddugo777 issued server command: /setwarp mangrovie
-[03:01:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
-[03:02:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2567ms or 51 ticks behind
-[03:02:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2523ms or 50 ticks behind
-[03:02:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2539ms or 50 ticks behind
-[03:02:43] [Server thread/INFO]: Arroddugo777 issued server command: /setwarp casa pillager balorda
-[03:02:48] [Server thread/INFO]: Arroddugo777 issued server command: /setwarp casa pillager balorda
-[03:02:53] [Server thread/INFO]: Arroddugo777 issued server command: /setwarp casa pillager
-[03:03:00] [Server thread/INFO]: Arroddugo777 issued server command: /setwarp casapillager
-[03:03:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
-[03:24:13] [Server thread/INFO]: Arroddugo777 lost connection: Disconnected
-[03:24:13] [Server thread/INFO]: Arroddugo777 left the game
-[03:39:39] [Server thread/INFO]: ExEnry has made the advancement [Getting an Upgrade]
-[03:40:28] [Server thread/INFO]: BlackPillona_94 issued server command: /rl
-[03:41:08] [Server thread/INFO]: Made BlackPillona_94 a server operator
-[03:41:13] [Server thread/INFO]: BlackPillona_94 issued server command: /rl confirm
-[03:41:13] [Server thread/INFO]: BlackPillona_94: Please note that this command is not supported and may cause issues when using some plugins.
-[03:41:13] [Server thread/INFO]: BlackPillona_94: If you encounter any issues please use the /stop command to restart your server.
-[03:41:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:41:13] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:41:13] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[03:41:13] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[03:41:13] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.10-beta-01+cb9fd58
-[03:41:13] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[03:41:13] [Server thread/INFO]: [Warps] Disabling Warps v4.1.3
-[03:41:13] [Server thread/INFO]: [WarpsGUI] Plugin has stopped!
-[03:41:13] [Server thread/INFO]: [ItemJoin] Disabling ItemJoin v6.1.1-RELEASE-b1048
-[03:41:13] [Server thread/INFO]: [BlueMap] Disabling BlueMap v5.5
-[03:41:13] [Server thread/INFO]: [BlueMap] Stopping...
-[03:41:13] [Server thread/INFO]: [BlueMap] Saved and stopped!
-[03:41:13] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v7.3.57
-[03:41:13] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.2.2
-[03:41:13] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[03:41:14] [Server thread/INFO]: Loaded 1370 recipes
-[03:41:14] [Server thread/INFO]: Loaded 1481 advancements
-[03:41:14] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[03:41:14] [Server thread/INFO]: [PluginInitializerManager] Initialized 7 plugins
-[03:41:14] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (7):
- - BlueMap (5.5), ItemJoin (6.1.1-RELEASE-b1048), SkinsRestorer (15.5.1), TreeAssist (7.3.57), Veinminer (2.2.2), Warps (4.1.3), WorldEdit (7.3.10-beta-01+cb9fd58)
-[03:41:14] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loading 4 libraries... please wait
-[03:41:15] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib/2.1.0/kotlin-stdlib-2.1.0.jar
-[03:41:15] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
-[03:41:15] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json/1.7.3/kotlinx-serialization-json-1.7.3.jar
-[03:41:15] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.7.3/kotlinx-serialization-json-jvm-1.7.3.jar
-[03:41:15] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.jar
-[03:41:15] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.jar
-[03:41:15] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar
-[03:41:15] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/de/miraculixx/kpaper/1.2.1/kpaper-1.2.1.jar
-[03:41:15] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.1/kotlinx-coroutines-jdk8-1.7.1.jar
-[03:41:15] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.jar
-[03:41:15] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.jar
-[03:41:15] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[03:41:15] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.2.2
-[03:41:15] [Server thread/INFO]: [TreeAssist] Loading server plugin TreeAssist v7.3.57
-[03:41:15] [Server thread/INFO]: [TreeAssist] Loading main config file: /config.yml
-[03:41:16] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v5.5
-[03:41:16] [Server thread/INFO]: [ItemJoin] Loading server plugin ItemJoin v6.1.1-RELEASE-b1048
-[03:41:16] [Server thread/INFO]: [Warps] Loading server plugin Warps v4.1.3
-[03:41:16] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.10-beta-01+cb9fd58
-[03:41:16] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6b55090b]
-[03:41:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:41:16] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[03:41:16] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[03:41:17] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[03:41:17] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
-[03:41:17] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[03:41:17] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.2.2
-[03:41:18] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:41:18] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
-[03:41:18] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[03:41:18] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
-[03:41:18] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[03:41:18] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
-[03:41:18] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:41:18] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.5.1
-[03:41:18] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: d5d8613
-[03:41:18] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
-[03:41:18] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:41:18] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[03:41:18] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[03:41:18] [Server thread/INFO]: [ItemJoin] Enabling ItemJoin v6.1.1-RELEASE-b1048
-[03:41:18] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.10-beta-01+cb9fd58
-[03:41:18] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[03:41:18] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[03:41:18] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
-[03:41:18] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is up to date
-[03:41:18] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
-[03:41:21] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v7.3.57
-[03:41:21] [Server thread/INFO]: [TreeAssist] sending full Metrics! You can deactivate this in the config.yml
-[03:41:21] [Server thread/INFO]: [TreeAssist] debugging: off
-[03:41:21] [Thread-142/INFO]: [TreeAssist] Checking for updates...
-[03:41:21] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.5
-[03:41:21] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
-[03:41:21] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
-[03:41:21] [Server thread/INFO]: [Warps] Enabling Warps v4.1.3
-[03:41:21] [Server thread/INFO]: [WarpsGUI] Plugin has started!
-[03:41:21] [Server thread/INFO]: BlackPillona_94: Reload complete.
-[03:41:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8560ms or 171 ticks behind
-[03:41:21] [Craft Scheduler Thread - 3283 - ItemJoin/ERROR]: [ItemJoin_ERROR] Detected a unsupported version of Minecraft, expected: 1.21.3 or older!
-[03:41:21] [Craft Scheduler Thread - 3283 - ItemJoin/ERROR]: [ItemJoin_ERROR] Attempting to run in NMS compatibility mode...
-[03:41:21] [Craft Scheduler Thread - 3283 - ItemJoin/ERROR]: [ItemJoin_ERROR] Things may not work as expected, please check for plugin updates.
-[03:41:21] [Craft Scheduler Thread - 3285 - BlueMap/INFO]: [BlueMap] Loading...
-[03:41:21] [Craft Scheduler Thread - 3283 - ItemJoin/INFO]: [ItemJoin] Hooked into { SkinsRestorer }
-[03:41:21] [Server thread/INFO]: [ItemJoin] 1/1 Custom item(s) loaded!
-[03:41:21] [Craft Scheduler Thread - 3283 - ItemJoin/INFO]: [ItemJoin] Checking for updates...
-[03:41:22] [Craft Scheduler Thread - 3283 - ItemJoin/INFO]: [ItemJoin] You are up to date!
-[03:41:22] [Craft Scheduler Thread - 3285 - BlueMap/INFO]: [BlueMap] Loading resources...
-[03:41:23] [Craft Scheduler Thread - 3285 - BlueMap/INFO]: [BlueMap] Loading textures...
-[03:41:25] [Craft Scheduler Thread - 3285 - BlueMap/INFO]: [BlueMap] Baking resources...
-[03:41:25] [Craft Scheduler Thread - 3285 - BlueMap/INFO]: [BlueMap] Resources loaded.
-[03:41:25] [Craft Scheduler Thread - 3285 - BlueMap/INFO]: [BlueMap] Initializing Storage: 'file' (Type: 'bluemap:file')
-[03:41:25] [Craft Scheduler Thread - 3285 - BlueMap/INFO]: [BlueMap] Loading map 'world'...
-[03:41:26] [Craft Scheduler Thread - 3285 - BlueMap/INFO]: [BlueMap] Loading map 'world_the_end'...
-[03:41:26] [Craft Scheduler Thread - 3285 - BlueMap/INFO]: [BlueMap] Loading map 'world_nether'...
-[03:41:26] [Craft Scheduler Thread - 3285 - BlueMap/INFO]: [BlueMap] WebServer bound to all network interfaces on port 3000
-[03:41:26] [Thread-143/INFO]: [BlueMap] WebServer started.
-[03:41:26] [Craft Scheduler Thread - 3285 - BlueMap/INFO]: [BlueMap] Loaded!
-[03:43:55] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode spectator
-[03:43:55] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Spectator Mode]
-[03:43:58] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode creative
-[03:43:58] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Creative Mode]
-[03:44:09] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode survival
-[03:44:09] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Survival Mode]
-[03:44:35] [Server thread/INFO]: BlackPillona_94 issued server command: /rl confirm
-[03:44:35] [Server thread/INFO]: BlackPillona_94: Please note that this command is not supported and may cause issues when using some plugins.
-[03:44:35] [Server thread/INFO]: BlackPillona_94: If you encounter any issues please use the /stop command to restart your server.
-[03:44:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:44:35] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:44:35] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[03:44:35] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[03:44:35] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.10-beta-01+cb9fd58
-[03:44:35] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[03:44:35] [Server thread/INFO]: [Warps] Disabling Warps v4.1.3
-[03:44:35] [Server thread/INFO]: [WarpsGUI] Plugin has stopped!
-[03:44:35] [Server thread/INFO]: [ItemJoin] Disabling ItemJoin v6.1.1-RELEASE-b1048
-[03:44:35] [Server thread/INFO]: [BlueMap] Disabling BlueMap v5.5
-[03:44:35] [Server thread/INFO]: [BlueMap] Stopping...
-[03:44:35] [Server thread/INFO]: [BlueMap] Saved and stopped!
-[03:44:35] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v7.3.57
-[03:44:35] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.2.2
-[03:44:35] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[03:44:36] [Server thread/INFO]: Loaded 1370 recipes
-[03:44:36] [Server thread/INFO]: Loaded 1481 advancements
-[03:44:36] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[03:44:36] [Server thread/INFO]: [PluginInitializerManager] Initialized 7 plugins
-[03:44:36] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (7):
- - BlueMap (5.5), ItemJoin (6.1.1-RELEASE-b1048), SkinsRestorer (15.5.1), TreeAssist (7.3.57), Veinminer (2.2.2), Warps (4.1.3), WorldEdit (7.3.10-beta-01+cb9fd58)
-[03:44:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loading 4 libraries... please wait
-[03:44:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib/2.1.0/kotlin-stdlib-2.1.0.jar
-[03:44:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
-[03:44:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json/1.7.3/kotlinx-serialization-json-1.7.3.jar
-[03:44:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.7.3/kotlinx-serialization-json-jvm-1.7.3.jar
-[03:44:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.jar
-[03:44:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.jar
-[03:44:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar
-[03:44:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/de/miraculixx/kpaper/1.2.1/kpaper-1.2.1.jar
-[03:44:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.1/kotlinx-coroutines-jdk8-1.7.1.jar
-[03:44:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.jar
-[03:44:36] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.jar
-[03:44:37] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[03:44:37] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.2.2
-[03:44:37] [Server thread/INFO]: [TreeAssist] Loading server plugin TreeAssist v7.3.57
-[03:44:37] [Server thread/INFO]: [TreeAssist] Loading main config file: /config.yml
-[03:44:37] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v5.5
-[03:44:37] [Server thread/INFO]: [ItemJoin] Loading server plugin ItemJoin v6.1.1-RELEASE-b1048
-[03:44:37] [Server thread/INFO]: [Warps] Loading server plugin Warps v4.1.3
-[03:44:37] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.10-beta-01+cb9fd58
-[03:44:38] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1cb092d6]
-[03:44:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:44:38] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[03:44:38] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[03:44:38] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[03:44:38] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
-[03:44:39] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[03:44:39] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.2.2
-[03:44:39] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:44:39] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[03:44:39] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[03:44:39] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
-[03:44:39] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[03:44:39] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[03:44:39] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:44:39] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.5.1
-[03:44:39] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: d5d8613
-[03:44:39] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
-[03:44:39] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:44:39] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[03:44:39] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[03:44:39] [Server thread/INFO]: [ItemJoin] Enabling ItemJoin v6.1.1-RELEASE-b1048
-[03:44:39] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.10-beta-01+cb9fd58
-[03:44:39] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[03:44:39] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is up to date
-[03:44:39] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[03:44:39] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
-[03:44:40] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
-[03:44:41] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v7.3.57
-[03:44:41] [Server thread/INFO]: [TreeAssist] sending full Metrics! You can deactivate this in the config.yml
-[03:44:41] [Server thread/INFO]: [TreeAssist] debugging: off
-[03:44:41] [Thread-158/INFO]: [TreeAssist] Checking for updates...
-[03:44:41] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.5
-[03:44:41] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
-[03:44:41] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
-[03:44:41] [Server thread/INFO]: [Warps] Enabling Warps v4.1.3
-[03:44:41] [Server thread/INFO]: [WarpsGUI] Plugin has started!
-[03:44:41] [Server thread/INFO]: BlackPillona_94: Reload complete.
-[03:44:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6640ms or 132 ticks behind
-[03:44:41] [Craft Scheduler Thread - 3317 - ItemJoin/ERROR]: [ItemJoin_ERROR] Detected a unsupported version of Minecraft, expected: 1.21.3 or older!
-[03:44:41] [Craft Scheduler Thread - 3317 - ItemJoin/ERROR]: [ItemJoin_ERROR] Attempting to run in NMS compatibility mode...
-[03:44:41] [Craft Scheduler Thread - 3317 - ItemJoin/ERROR]: [ItemJoin_ERROR] Things may not work as expected, please check for plugin updates.
-[03:44:41] [Craft Scheduler Thread - 3315 - BlueMap/INFO]: [BlueMap] Loading...
-[03:44:41] [Craft Scheduler Thread - 3317 - ItemJoin/INFO]: [ItemJoin] Hooked into { SkinsRestorer }
-[03:44:42] [Server thread/INFO]: [ItemJoin] 1/1 Custom item(s) loaded!
-[03:44:42] [Craft Scheduler Thread - 3317 - ItemJoin/INFO]: [ItemJoin] Checking for updates...
-[03:44:42] [Craft Scheduler Thread - 3317 - ItemJoin/INFO]: [ItemJoin] You are up to date!
-[03:44:42] [Craft Scheduler Thread - 3315 - BlueMap/INFO]: [BlueMap] Loading resources...
-[03:44:43] [Craft Scheduler Thread - 3315 - BlueMap/INFO]: [BlueMap] Loading textures...
-[03:44:44] [Craft Scheduler Thread - 3315 - BlueMap/INFO]: [BlueMap] Baking resources...
-[03:44:44] [Craft Scheduler Thread - 3315 - BlueMap/INFO]: [BlueMap] Resources loaded.
-[03:44:44] [Craft Scheduler Thread - 3315 - BlueMap/INFO]: [BlueMap] Initializing Storage: 'file' (Type: 'bluemap:file')
-[03:44:44] [Craft Scheduler Thread - 3315 - BlueMap/INFO]: [BlueMap] Loading map 'world'...
-[03:44:44] [Craft Scheduler Thread - 3315 - BlueMap/INFO]: [BlueMap] Loading map 'world_the_end'...
-[03:44:45] [Craft Scheduler Thread - 3315 - BlueMap/INFO]: [BlueMap] Loading map 'world_nether'...
-[03:44:45] [Craft Scheduler Thread - 3315 - BlueMap/INFO]: [BlueMap] WebServer bound to all network interfaces on port 3000
-[03:44:45] [Thread-159/INFO]: [BlueMap] WebServer started.
-[03:44:45] [Craft Scheduler Thread - 3315 - BlueMap/INFO]: [BlueMap] Loaded!
-[03:44:52] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode spectator
-[03:44:52] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Spectator Mode]
-[03:44:55] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode survival
-[03:44:55] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Survival Mode]
-[03:45:17] [Server thread/INFO]: BlackPillona_94 issued server command: /deop BlackPillona_94
-[03:45:17] [Server thread/INFO]: [BlackPillona_94: Made BlackPillona_94 no longer a server operator]
-[03:45:36] [Server thread/INFO]: BlackPillona_94 issued server command: /deop BlackPillona_94
-[03:45:44] [Server thread/INFO]: Made BlackPillona_94 a server operator
-[03:45:48] [Server thread/INFO]: BlackPillona_94 issued server command: /rl confirm
-[03:45:48] [Server thread/INFO]: BlackPillona_94: Please note that this command is not supported and may cause issues when using some plugins.
-[03:45:48] [Server thread/INFO]: BlackPillona_94: If you encounter any issues please use the /stop command to restart your server.
-[03:45:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:45:48] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:45:48] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[03:45:48] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[03:45:48] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.10-beta-01+cb9fd58
-[03:45:48] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[03:45:48] [Server thread/INFO]: [Warps] Disabling Warps v4.1.3
-[03:45:48] [Server thread/INFO]: [WarpsGUI] Plugin has stopped!
-[03:45:48] [Server thread/INFO]: [ItemJoin] Disabling ItemJoin v6.1.1-RELEASE-b1048
-[03:45:48] [Server thread/INFO]: [BlueMap] Disabling BlueMap v5.5
-[03:45:48] [Server thread/INFO]: [BlueMap] Stopping...
-[03:45:48] [Server thread/INFO]: [BlueMap] Saved and stopped!
-[03:45:48] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v7.3.57
-[03:45:48] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.2.2
-[03:45:48] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[03:45:49] [Server thread/INFO]: Loaded 1370 recipes
-[03:45:49] [Server thread/INFO]: Loaded 1481 advancements
-[03:45:49] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[03:45:49] [Server thread/INFO]: [PluginInitializerManager] Initialized 7 plugins
-[03:45:49] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (7):
- - BlueMap (5.5), ItemJoin (6.1.1-RELEASE-b1048), SkinsRestorer (15.5.1), TreeAssist (7.3.57), Veinminer (2.2.2), Warps (4.1.3), WorldEdit (7.3.10-beta-01+cb9fd58)
-[03:45:49] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loading 4 libraries... please wait
-[03:45:49] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib/2.1.0/kotlin-stdlib-2.1.0.jar
-[03:45:49] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
-[03:45:49] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json/1.7.3/kotlinx-serialization-json-1.7.3.jar
-[03:45:49] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.7.3/kotlinx-serialization-json-jvm-1.7.3.jar
-[03:45:49] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.jar
-[03:45:49] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.jar
-[03:45:49] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar
-[03:45:49] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/de/miraculixx/kpaper/1.2.1/kpaper-1.2.1.jar
-[03:45:49] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.1/kotlinx-coroutines-jdk8-1.7.1.jar
-[03:45:49] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.jar
-[03:45:49] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.jar
-[03:45:50] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[03:45:50] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.2.2
-[03:45:50] [Server thread/INFO]: [TreeAssist] Loading server plugin TreeAssist v7.3.57
-[03:45:50] [Server thread/INFO]: [TreeAssist] Loading main config file: /config.yml
-[03:45:50] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v5.5
-[03:45:50] [Server thread/INFO]: [ItemJoin] Loading server plugin ItemJoin v6.1.1-RELEASE-b1048
-[03:45:50] [Server thread/INFO]: [Warps] Loading server plugin Warps v4.1.3
-[03:45:50] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.10-beta-01+cb9fd58
-[03:45:51] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@77657e38]
-[03:45:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:45:51] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[03:45:51] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[03:45:51] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[03:45:51] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
-[03:45:52] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[03:45:52] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.2.2
-[03:45:52] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:45:52] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
-[03:45:52] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[03:45:52] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
-[03:45:52] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[03:45:52] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
-[03:45:52] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:45:52] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.5.1
-[03:45:52] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: d5d8613
-[03:45:52] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
-[03:45:52] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:45:52] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[03:45:52] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[03:45:52] [Server thread/INFO]: [ItemJoin] Enabling ItemJoin v6.1.1-RELEASE-b1048
-[03:45:52] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.10-beta-01+cb9fd58
-[03:45:52] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[03:45:52] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[03:45:52] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
-[03:45:52] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is up to date
-[03:45:53] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
-[03:45:54] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v7.3.57
-[03:45:54] [Server thread/INFO]: [TreeAssist] sending full Metrics! You can deactivate this in the config.yml
-[03:45:54] [Server thread/INFO]: [TreeAssist] debugging: off
-[03:45:54] [Thread-174/INFO]: [TreeAssist] Checking for updates...
-[03:45:54] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.5
-[03:45:54] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
-[03:45:54] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
-[03:45:54] [Server thread/INFO]: [Warps] Enabling Warps v4.1.3
-[03:45:54] [Server thread/INFO]: [WarpsGUI] Plugin has started!
-[03:45:55] [Server thread/INFO]: BlackPillona_94: Reload complete.
-[03:45:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6308ms or 126 ticks behind
-[03:45:55] [Craft Scheduler Thread - 3332 - ItemJoin/ERROR]: [ItemJoin_ERROR] Detected a unsupported version of Minecraft, expected: 1.21.3 or older!
-[03:45:55] [Craft Scheduler Thread - 3332 - ItemJoin/ERROR]: [ItemJoin_ERROR] Attempting to run in NMS compatibility mode...
-[03:45:55] [Craft Scheduler Thread - 3332 - ItemJoin/ERROR]: [ItemJoin_ERROR] Things may not work as expected, please check for plugin updates.
-[03:45:55] [Craft Scheduler Thread - 3331 - BlueMap/INFO]: [BlueMap] Loading...
-[03:45:55] [Craft Scheduler Thread - 3332 - ItemJoin/INFO]: [ItemJoin] Hooked into { SkinsRestorer }
-[03:45:55] [Server thread/INFO]: [ItemJoin] 1/1 Custom item(s) loaded!
-[03:45:55] [Craft Scheduler Thread - 3332 - ItemJoin/INFO]: [ItemJoin] Checking for updates...
-[03:45:55] [Craft Scheduler Thread - 3332 - ItemJoin/INFO]: [ItemJoin] You are up to date!
-[03:45:56] [Craft Scheduler Thread - 3331 - BlueMap/INFO]: [BlueMap] Loading resources...
-[03:45:56] [Craft Scheduler Thread - 3331 - BlueMap/INFO]: [BlueMap] Loading textures...
-[03:45:57] [Craft Scheduler Thread - 3331 - BlueMap/INFO]: [BlueMap] Baking resources...
-[03:45:57] [Craft Scheduler Thread - 3331 - BlueMap/INFO]: [BlueMap] Resources loaded.
-[03:45:57] [Craft Scheduler Thread - 3331 - BlueMap/INFO]: [BlueMap] Initializing Storage: 'file' (Type: 'bluemap:file')
-[03:45:57] [Craft Scheduler Thread - 3331 - BlueMap/INFO]: [BlueMap] Loading map 'world'...
-[03:45:58] [Craft Scheduler Thread - 3331 - BlueMap/INFO]: [BlueMap] Loading map 'world_the_end'...
-[03:45:58] [Craft Scheduler Thread - 3331 - BlueMap/INFO]: [BlueMap] Loading map 'world_nether'...
-[03:45:58] [Craft Scheduler Thread - 3331 - BlueMap/INFO]: [BlueMap] WebServer bound to all network interfaces on port 3000
-[03:45:58] [Thread-175/INFO]: [BlueMap] WebServer started.
-[03:45:58] [Craft Scheduler Thread - 3331 - BlueMap/INFO]: [BlueMap] Loaded!
-[03:46:13] [Server thread/INFO]: BlackPillona_94 lost connection: Disconnected
-[03:46:13] [Server thread/INFO]: BlackPillona_94 left the game
-[03:46:14] [User Authenticator #12/INFO]: UUID of player BlackPillona_94 is e258d955-cdf3-3130-9910-bfeca184bfa7
-[03:46:15] [Server thread/INFO]: BlackPillona_94 joined the game
-[03:46:15] [Server thread/INFO]: BlackPillona_94[/81.56.36.157:22774] logged in with entity id 99045 at ([world]-208.2137357074661, 57.0, 161.38891114467452)
-[03:48:24] [Server thread/INFO]: BlackPillona_94 issued server command: /pl
-[03:48:46] [Server thread/INFO]: BlackPillona_94 issued server command: /rl confirm
-[03:48:46] [Server thread/INFO]: BlackPillona_94: Please note that this command is not supported and may cause issues when using some plugins.
-[03:48:46] [Server thread/INFO]: BlackPillona_94: If you encounter any issues please use the /stop command to restart your server.
-[03:48:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:48:46] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:48:46] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[03:48:46] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[03:48:46] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.10-beta-01+cb9fd58
-[03:48:46] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[03:48:46] [Server thread/INFO]: [Warps] Disabling Warps v4.1.3
-[03:48:46] [Server thread/INFO]: [WarpsGUI] Plugin has stopped!
-[03:48:46] [Server thread/INFO]: [ItemJoin] Disabling ItemJoin v6.1.1-RELEASE-b1048
-[03:48:46] [Server thread/INFO]: [BlueMap] Disabling BlueMap v5.5
-[03:48:46] [Server thread/INFO]: [BlueMap] Stopping...
-[03:48:46] [Server thread/INFO]: [BlueMap] Saved and stopped!
-[03:48:46] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v7.3.57
-[03:48:46] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.2.2
-[03:48:46] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[03:48:47] [Server thread/INFO]: Loaded 1370 recipes
-[03:48:47] [Server thread/INFO]: Loaded 1481 advancements
-[03:48:48] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[03:48:48] [Server thread/INFO]: [PluginInitializerManager] Initialized 6 plugins
-[03:48:48] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (6):
+[20:28:22] [ServerMain/INFO]: [bootstrap] Running Java 23 (Java HotSpot(TM) 64-Bit Server VM 23.0.1+11-39; Oracle Corporation null) on Linux 6.1.0-28-cloud-amd64 (amd64)
+[20:28:22] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-66-main@d00344a (2024-12-29T14:59:35Z) for Minecraft 1.21.4
+[20:28:22] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:28:23] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
+[20:28:23] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (6):
  - BlueMap (5.5), ItemJoin (6.1.1-RELEASE-b1048), SkinsRestorer (15.5.1), TreeAssist (7.3.57), Veinminer (2.2.2), Warps (4.1.3)
-[03:48:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loading 4 libraries... please wait
-[03:48:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib/2.1.0/kotlin-stdlib-2.1.0.jar
-[03:48:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
-[03:48:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json/1.7.3/kotlinx-serialization-json-1.7.3.jar
-[03:48:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.7.3/kotlinx-serialization-json-jvm-1.7.3.jar
-[03:48:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.jar
-[03:48:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.jar
-[03:48:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar
-[03:48:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/de/miraculixx/kpaper/1.2.1/kpaper-1.2.1.jar
-[03:48:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.1/kotlinx-coroutines-jdk8-1.7.1.jar
-[03:48:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.jar
-[03:48:48] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.jar
-[03:48:48] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[03:48:48] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.2.2
-[03:48:49] [Server thread/INFO]: [TreeAssist] Loading server plugin TreeAssist v7.3.57
-[03:48:49] [Server thread/INFO]: [TreeAssist] Loading main config file: /config.yml
-[03:48:49] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v5.5
-[03:48:49] [Server thread/INFO]: [ItemJoin] Loading server plugin ItemJoin v6.1.1-RELEASE-b1048
-[03:48:49] [Server thread/INFO]: [Warps] Loading server plugin Warps v4.1.3
-[03:48:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:48:49] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[03:48:49] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[03:48:49] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[03:48:50] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
-[03:48:50] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[03:48:50] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.2.2
-[03:48:50] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:48:50] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[03:48:50] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[03:48:50] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
-[03:48:50] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[03:48:50] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[03:48:50] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:48:50] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.5.1
-[03:48:50] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: d5d8613
-[03:48:50] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
-[03:48:50] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:48:50] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[03:48:50] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[03:48:50] [Server thread/INFO]: [ItemJoin] Enabling ItemJoin v6.1.1-RELEASE-b1048
-[03:48:50] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v7.3.57
-[03:48:50] [Server thread/INFO]: [TreeAssist] sending full Metrics! You can deactivate this in the config.yml
-[03:48:50] [Server thread/INFO]: [TreeAssist] debugging: off
-[03:48:50] [Thread-189/INFO]: [TreeAssist] Checking for updates...
-[03:48:50] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.5
-[03:48:50] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
-[03:48:50] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
-[03:48:51] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is up to date
-[03:48:51] [Server thread/INFO]: [Warps] Enabling Warps v4.1.3
-[03:48:51] [Server thread/INFO]: [WarpsGUI] Plugin has started!
-[03:48:51] [Server thread/INFO]: BlackPillona_94: Reload complete.
-[03:48:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5464ms or 109 ticks behind
-[03:48:51] [Craft Scheduler Thread - 3346 - BlueMap/INFO]: [BlueMap] Loading...
-[03:48:51] [Craft Scheduler Thread - 3347 - ItemJoin/ERROR]: [ItemJoin_ERROR] Detected a unsupported version of Minecraft, expected: 1.21.3 or older!
-[03:48:51] [Craft Scheduler Thread - 3347 - ItemJoin/ERROR]: [ItemJoin_ERROR] Attempting to run in NMS compatibility mode...
-[03:48:51] [Craft Scheduler Thread - 3347 - ItemJoin/ERROR]: [ItemJoin_ERROR] Things may not work as expected, please check for plugin updates.
-[03:48:51] [Craft Scheduler Thread - 3347 - ItemJoin/INFO]: [ItemJoin] Hooked into { SkinsRestorer }
-[03:48:51] [Server thread/INFO]: [ItemJoin] 1/1 Custom item(s) loaded!
-[03:48:52] [Craft Scheduler Thread - 3347 - ItemJoin/INFO]: [ItemJoin] Checking for updates...
-[03:48:52] [Server thread/WARN]: BlackPillona_96 moved too quickly! -10.703882479241258,-1.1767592750642422,-3.9335538262438803
-[03:48:52] [Craft Scheduler Thread - 3347 - ItemJoin/INFO]: [ItemJoin] You are up to date!
-[03:48:52] [Craft Scheduler Thread - 3346 - BlueMap/INFO]: [BlueMap] Loading resources...
-[03:48:53] [Craft Scheduler Thread - 3346 - BlueMap/INFO]: [BlueMap] Loading textures...
-[03:48:55] [Craft Scheduler Thread - 3346 - BlueMap/INFO]: [BlueMap] Baking resources...
-[03:48:55] [Craft Scheduler Thread - 3346 - BlueMap/INFO]: [BlueMap] Resources loaded.
-[03:48:55] [Craft Scheduler Thread - 3346 - BlueMap/INFO]: [BlueMap] Initializing Storage: 'file' (Type: 'bluemap:file')
-[03:48:55] [Craft Scheduler Thread - 3346 - BlueMap/INFO]: [BlueMap] Loading map 'world'...
-[03:48:56] [Craft Scheduler Thread - 3346 - BlueMap/INFO]: [BlueMap] Loading map 'world_the_end'...
-[03:48:56] [Craft Scheduler Thread - 3346 - BlueMap/INFO]: [BlueMap] Loading map 'world_nether'...
-[03:48:56] [Craft Scheduler Thread - 3346 - BlueMap/INFO]: [BlueMap] WebServer bound to all network interfaces on port 3000
-[03:48:56] [Thread-190/INFO]: [BlueMap] WebServer started.
-[03:48:56] [Craft Scheduler Thread - 3346 - BlueMap/INFO]: [BlueMap] Loaded!
-[03:49:14] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode creative
-[03:49:14] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Creative Mode]
-[03:49:33] [User Authenticator #13/INFO]: UUID of player ServerSeekerV2 is 48a01d2c-abfb-3ffb-8eb9-d162f11a9856
-[03:49:33] [Server thread/INFO]: Disconnecting ServerSeekerV2 (/154.213.192.15:58008): You are not whitelisted on this server!
-[03:49:33] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:58008) lost connection: You are not whitelisted on this server!
-[03:49:45] [Server thread/INFO]: BlackPillona_94 issued server command: /setwarp aa
-[03:50:17] [Server thread/INFO]: BlackPillona_94 issued server command: /rl confirm
-[03:50:17] [Server thread/INFO]: BlackPillona_94: Please note that this command is not supported and may cause issues when using some plugins.
-[03:50:17] [Server thread/INFO]: BlackPillona_94: If you encounter any issues please use the /stop command to restart your server.
-[03:50:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:50:17] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:50:17] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[03:50:17] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[03:50:17] [Server thread/INFO]: [Warps] Disabling Warps v4.1.3
-[03:50:17] [Server thread/INFO]: [WarpsGUI] Plugin has stopped!
-[03:50:17] [Server thread/INFO]: [ItemJoin] Disabling ItemJoin v6.1.1-RELEASE-b1048
-[03:50:17] [Server thread/INFO]: [BlueMap] Disabling BlueMap v5.5
-[03:50:17] [Server thread/INFO]: [BlueMap] Stopping...
-[03:50:17] [Server thread/INFO]: [BlueMap] Saved and stopped!
-[03:50:17] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v7.3.57
-[03:50:17] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.2.2
-[03:50:17] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[03:50:18] [Server thread/INFO]: Loaded 1370 recipes
-[03:50:18] [Server thread/INFO]: Loaded 1481 advancements
-[03:50:18] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[03:50:19] [Server thread/INFO]: [PluginInitializerManager] Initialized 6 plugins
-[03:50:19] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (6):
- - BlueMap (5.5), ItemJoin (6.1.1-RELEASE-b1048), SkinsRestorer (15.5.1), TreeAssist (7.3.57), Veinminer (2.2.2), Warps (4.1.3)
-[03:50:19] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loading 4 libraries... please wait
-[03:50:19] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib/2.1.0/kotlin-stdlib-2.1.0.jar
-[03:50:19] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
-[03:50:19] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json/1.7.3/kotlinx-serialization-json-1.7.3.jar
-[03:50:19] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.7.3/kotlinx-serialization-json-jvm-1.7.3.jar
-[03:50:19] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.jar
-[03:50:19] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.jar
-[03:50:19] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar
-[03:50:19] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/de/miraculixx/kpaper/1.2.1/kpaper-1.2.1.jar
-[03:50:19] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.1/kotlinx-coroutines-jdk8-1.7.1.jar
-[03:50:19] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.jar
-[03:50:19] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.jar
-[03:50:19] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[03:50:19] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.2.2
-[03:50:19] [Server thread/INFO]: [TreeAssist] Loading server plugin TreeAssist v7.3.57
-[03:50:19] [Server thread/INFO]: [TreeAssist] Loading main config file: /config.yml
-[03:50:20] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v5.5
-[03:50:20] [Server thread/INFO]: [ItemJoin] Loading server plugin ItemJoin v6.1.1-RELEASE-b1048
-[03:50:20] [Server thread/INFO]: [Warps] Loading server plugin Warps v4.1.3
-[03:50:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:50:20] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[03:50:20] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[03:50:20] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[03:50:20] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
-[03:50:21] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[03:50:21] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.2.2
-[03:50:21] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:50:21] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
-[03:50:21] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[03:50:21] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
-[03:50:21] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[03:50:21] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
-[03:50:21] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:50:21] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.5.1
-[03:50:21] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: d5d8613
-[03:50:21] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
-[03:50:21] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:50:21] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[03:50:21] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[03:50:21] [Server thread/INFO]: [ItemJoin] Enabling ItemJoin v6.1.1-RELEASE-b1048
-[03:50:21] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v7.3.57
-[03:50:21] [Server thread/INFO]: [TreeAssist] sending full Metrics! You can deactivate this in the config.yml
-[03:50:21] [Server thread/INFO]: [TreeAssist] debugging: off
-[03:50:21] [Thread-204/INFO]: [TreeAssist] Checking for updates...
-[03:50:21] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.5
-[03:50:21] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
-[03:50:21] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
-[03:50:21] [Server thread/INFO]: [Warps] Enabling Warps v4.1.3
-[03:50:21] [Server thread/INFO]: [WarpsGUI] Plugin has started!
-[03:50:21] [Server thread/INFO]: BlackPillona_94: Reload complete.
-[03:50:21] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is up to date
-[03:50:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4988ms or 99 ticks behind
-[03:50:22] [Craft Scheduler Thread - 3355 - BlueMap/INFO]: [BlueMap] Loading...
-[03:50:22] [Craft Scheduler Thread - 3357 - ItemJoin/ERROR]: [ItemJoin_ERROR] Detected a unsupported version of Minecraft, expected: 1.21.3 or older!
-[03:50:22] [Craft Scheduler Thread - 3357 - ItemJoin/ERROR]: [ItemJoin_ERROR] Attempting to run in NMS compatibility mode...
-[03:50:22] [Craft Scheduler Thread - 3357 - ItemJoin/ERROR]: [ItemJoin_ERROR] Things may not work as expected, please check for plugin updates.
-[03:50:22] [Craft Scheduler Thread - 3357 - ItemJoin/INFO]: [ItemJoin] Hooked into { SkinsRestorer }
-[03:50:22] [Server thread/INFO]: [ItemJoin] 1/1 Custom item(s) loaded!
-[03:50:22] [Craft Scheduler Thread - 3357 - ItemJoin/INFO]: [ItemJoin] Checking for updates...
-[03:50:22] [Craft Scheduler Thread - 3357 - ItemJoin/INFO]: [ItemJoin] You are up to date!
-[03:50:22] [Craft Scheduler Thread - 3355 - BlueMap/INFO]: [BlueMap] Loading resources...
-[03:50:23] [Craft Scheduler Thread - 3355 - BlueMap/INFO]: [BlueMap] Loading textures...
-[03:50:24] [Craft Scheduler Thread - 3355 - BlueMap/INFO]: [BlueMap] Baking resources...
-[03:50:24] [Craft Scheduler Thread - 3355 - BlueMap/INFO]: [BlueMap] Resources loaded.
-[03:50:24] [Craft Scheduler Thread - 3355 - BlueMap/INFO]: [BlueMap] Initializing Storage: 'file' (Type: 'bluemap:file')
-[03:50:24] [Craft Scheduler Thread - 3355 - BlueMap/INFO]: [BlueMap] Loading map 'world'...
-[03:50:25] [Craft Scheduler Thread - 3355 - BlueMap/INFO]: [BlueMap] Loading map 'world_the_end'...
-[03:50:25] [Craft Scheduler Thread - 3355 - BlueMap/INFO]: [BlueMap] Loading map 'world_nether'...
-[03:50:25] [Craft Scheduler Thread - 3355 - BlueMap/INFO]: [BlueMap] WebServer bound to all network interfaces on port 3000
-[03:50:25] [Thread-205/INFO]: [BlueMap] WebServer started.
-[03:50:25] [Craft Scheduler Thread - 3355 - BlueMap/INFO]: [BlueMap] Loaded!
-[03:50:55] [Server thread/INFO]: BlackPillona_94 issued server command: /rl confirm
-[03:50:55] [Server thread/INFO]: BlackPillona_94: Please note that this command is not supported and may cause issues when using some plugins.
-[03:50:55] [Server thread/INFO]: BlackPillona_94: If you encounter any issues please use the /stop command to restart your server.
-[03:50:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:50:55] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:50:55] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[03:50:55] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[03:50:55] [Server thread/INFO]: [Warps] Disabling Warps v4.1.3
-[03:50:55] [Server thread/INFO]: [WarpsGUI] Plugin has stopped!
-[03:50:55] [Server thread/INFO]: [ItemJoin] Disabling ItemJoin v6.1.1-RELEASE-b1048
-[03:50:55] [Server thread/INFO]: [BlueMap] Disabling BlueMap v5.5
-[03:50:55] [Server thread/INFO]: [BlueMap] Stopping...
-[03:50:55] [Server thread/INFO]: [BlueMap] Saved and stopped!
-[03:50:55] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v7.3.57
-[03:50:55] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.2.2
-[03:50:55] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[03:50:56] [Server thread/INFO]: Loaded 1370 recipes
-[03:50:56] [Server thread/INFO]: Loaded 1481 advancements
-[03:50:56] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[03:50:56] [Server thread/INFO]: [PluginInitializerManager] Initialized 6 plugins
-[03:50:56] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (6):
- - BlueMap (5.5), ItemJoin (6.1.1-RELEASE-b1048), SkinsRestorer (15.5.1), TreeAssist (7.3.57), Veinminer (2.2.2), Warps (4.1.3)
-[03:50:56] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loading 4 libraries... please wait
-[03:50:56] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib/2.1.0/kotlin-stdlib-2.1.0.jar
-[03:50:56] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
-[03:50:56] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json/1.7.3/kotlinx-serialization-json-1.7.3.jar
-[03:50:56] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.7.3/kotlinx-serialization-json-jvm-1.7.3.jar
-[03:50:56] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.jar
-[03:50:56] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.jar
-[03:50:56] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar
-[03:50:56] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/de/miraculixx/kpaper/1.2.1/kpaper-1.2.1.jar
-[03:50:56] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.1/kotlinx-coroutines-jdk8-1.7.1.jar
-[03:50:56] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.jar
-[03:50:56] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.jar
-[03:50:57] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[03:50:57] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.2.2
-[03:50:57] [Server thread/INFO]: [TreeAssist] Loading server plugin TreeAssist v7.3.57
-[03:50:57] [Server thread/INFO]: [TreeAssist] Loading main config file: /config.yml
-[03:50:57] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v5.5
-[03:50:57] [Server thread/INFO]: [ItemJoin] Loading server plugin ItemJoin v6.1.1-RELEASE-b1048
-[03:50:57] [Server thread/INFO]: [Warps] Loading server plugin Warps v4.1.3
-[03:50:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:50:57] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[03:50:57] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[03:50:57] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[03:50:58] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
-[03:50:58] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[03:50:58] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.2.2
-[03:50:58] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:50:58] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[03:50:58] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[03:50:58] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
-[03:50:58] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[03:50:58] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[03:50:58] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:50:58] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.5.1
-[03:50:58] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: d5d8613
-[03:50:58] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
-[03:50:58] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:50:58] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[03:50:58] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[03:50:59] [Server thread/INFO]: [ItemJoin] Enabling ItemJoin v6.1.1-RELEASE-b1048
-[03:50:59] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v7.3.57
-[03:50:59] [Server thread/INFO]: [TreeAssist] sending full Metrics! You can deactivate this in the config.yml
-[03:50:59] [Server thread/INFO]: [TreeAssist] debugging: off
-[03:50:59] [Thread-219/INFO]: [TreeAssist] Checking for updates...
-[03:50:59] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.5
-[03:50:59] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
-[03:50:59] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
-[03:50:59] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is up to date
-[03:50:59] [Server thread/INFO]: [Warps] Enabling Warps v4.1.3
-[03:50:59] [Server thread/INFO]: [WarpsGUI] Plugin has started!
-[03:50:59] [Server thread/INFO]: BlackPillona_94: Reload complete.
-[03:50:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4029ms or 80 ticks behind
-[03:50:59] [Craft Scheduler Thread - 3360 - ItemJoin/ERROR]: [ItemJoin_ERROR] Detected a unsupported version of Minecraft, expected: 1.21.3 or older!
-[03:50:59] [Craft Scheduler Thread - 3360 - ItemJoin/ERROR]: [ItemJoin_ERROR] Attempting to run in NMS compatibility mode...
-[03:50:59] [Craft Scheduler Thread - 3359 - BlueMap/INFO]: [BlueMap] Loading...
-[03:50:59] [Craft Scheduler Thread - 3360 - ItemJoin/ERROR]: [ItemJoin_ERROR] Things may not work as expected, please check for plugin updates.
-[03:50:59] [Craft Scheduler Thread - 3360 - ItemJoin/INFO]: [ItemJoin] Hooked into { SkinsRestorer }
-[03:50:59] [Server thread/INFO]: [ItemJoin] 1/1 Custom item(s) loaded!
-[03:51:00] [Craft Scheduler Thread - 3360 - ItemJoin/INFO]: [ItemJoin] Checking for updates...
-[03:51:00] [Craft Scheduler Thread - 3359 - BlueMap/INFO]: [BlueMap] Loading resources...
-[03:51:00] [Craft Scheduler Thread - 3360 - ItemJoin/INFO]: [ItemJoin] You are up to date!
-[03:51:00] [Craft Scheduler Thread - 3359 - BlueMap/INFO]: [BlueMap] Loading textures...
-[03:51:01] [Craft Scheduler Thread - 3359 - BlueMap/INFO]: [BlueMap] Baking resources...
-[03:51:01] [Craft Scheduler Thread - 3359 - BlueMap/INFO]: [BlueMap] Resources loaded.
-[03:51:02] [Craft Scheduler Thread - 3359 - BlueMap/INFO]: [BlueMap] Initializing Storage: 'file' (Type: 'bluemap:file')
-[03:51:02] [Craft Scheduler Thread - 3359 - BlueMap/INFO]: [BlueMap] Loading map 'world'...
-[03:51:02] [Craft Scheduler Thread - 3359 - BlueMap/INFO]: [BlueMap] Loading map 'world_the_end'...
-[03:51:02] [Craft Scheduler Thread - 3359 - BlueMap/INFO]: [BlueMap] Loading map 'world_nether'...
-[03:51:02] [Craft Scheduler Thread - 3359 - BlueMap/INFO]: [BlueMap] WebServer bound to all network interfaces on port 3000
-[03:51:02] [Thread-220/INFO]: [BlueMap] WebServer started.
-[03:51:02] [Craft Scheduler Thread - 3359 - BlueMap/INFO]: [BlueMap] Loaded!
-[03:51:11] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode survival
-[03:51:11] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Survival Mode]
-[03:51:14] [Server thread/INFO]: BlackPillona_94 issued server command: /deop Arroddugo777
-[03:51:14] [Server thread/INFO]: [BlackPillona_94: Made Arroddugo777 no longer a server operator]
-[03:51:15] [Server thread/INFO]: BlackPillona_94 issued server command: /deop BlackPillona_94
-[03:51:15] [Server thread/INFO]: [BlackPillona_94: Made BlackPillona_94 no longer a server operator]
-[03:56:03] [Async Chat Thread - #12/INFO]: [Not Secure] <BlackPillona_94> ce mioo padre ancoora sveglio
-[03:56:21] [Async Chat Thread - #12/INFO]: [Not Secure] <BlackPillona_94> domani lavora pero
-[03:56:24] [Async Chat Thread - #12/INFO]: [Not Secure] <BlackPillona_94> cioe tra 3 ore
-[03:56:29] [Async Chat Thread - #12/INFO]: [Not Secure] <BlackPillona_94> io spendo
-[03:56:31] [Async Chat Thread - #12/INFO]: [Not Secure] <BlackPillona_94> il suo lavoro
-[03:56:39] [User Authenticator #14/INFO]: UUID of player Arroddugo777 is a2433b56-a87d-344d-aa22-e37864939484
-[03:56:40] [Server thread/INFO]: Arroddugo777 joined the game
-[03:56:40] [Server thread/INFO]: Arroddugo777[/81.56.36.157:25434] logged in with entity id 100272 at ([world]-312.76249998807907, 80.0, 108.83796917651377)
-[03:56:53] [Server thread/INFO]: Arroddugo777 lost connection: Disconnected
-[03:56:53] [Server thread/INFO]: Arroddugo777 left the game
-[03:59:19] [Server thread/INFO]: BlackPillona_94 has made the advancement [Fishy Business]
-[04:00:01] [Server thread/INFO]: ExEnry has made the advancement [Eye Spy]
-[04:02:15] [Server thread/INFO]: Made BlackPillona_94 a server operator
-[04:02:22] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode creative
-[04:02:22] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Creative Mode]
-[04:03:20] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode survival
-[04:03:20] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Survival Mode]
-[04:05:53] [Server thread/INFO]: BlackPillona_94 lost connection: Disconnected
-[04:05:53] [Server thread/INFO]: BlackPillona_94 left the game
-[04:25:16] [Server thread/INFO]: ExEnry was slain by BlackPillona_96
-[04:30:10] [Server thread/INFO]: BlackPillona_96 lost connection: Disconnected
-[04:30:10] [Server thread/INFO]: BlackPillona_96 left the game
-[04:31:57] [Server thread/INFO]: ExEnry lost connection: Disconnected
-[04:31:57] [Server thread/INFO]: ExEnry left the game
-[12:40:18] [User Authenticator #15/INFO]: UUID of player BlackPillona_96 is a05c8968-62c7-3ffb-bca7-bf07caf51f25
-[12:40:18] [Server thread/INFO]: BlackPillona_96 joined the game
-[12:40:18] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:50317] logged in with entity id 116119 at ([world]-303.30000001192093, 94.0, 145.5035347657646)
-[12:41:34] [Async Chat Thread - #14/INFO]: [Not Secure] <BlackPillona_96> 248 2953
-[13:02:42] [User Authenticator #16/INFO]: UUID of player ExEnry is 724d1c1c-ad79-3f05-91e2-d008afeaa6d5
-[13:02:42] [Server thread/INFO]: ExEnry joined the game
-[13:02:42] [Server thread/INFO]: ExEnry[/91.254.74.218:58822] logged in with entity id 126517 at ([world]-307.3575036439069, 80.5625, 111.42351514796451)
-[13:02:45] [Async Chat Thread - #16/INFO]: [Not Secure] <BlackPillona_96> UE
-[13:05:40] [Server thread/INFO]: ExEnry lost connection: Disconnected
-[13:05:40] [Server thread/INFO]: ExEnry left the game
-[13:05:42] [User Authenticator #17/INFO]: UUID of player ExEnry is 724d1c1c-ad79-3f05-91e2-d008afeaa6d5
-[13:05:43] [Server thread/INFO]: ExEnry joined the game
-[13:05:43] [Server thread/INFO]: ExEnry[/91.254.74.218:58963] logged in with entity id 126879 at ([world]-306.32402211601163, 88.0, 112.70869704351557)
-[13:13:03] [Async Chat Thread - #18/INFO]: [Not Secure] <BlackPillona_96> f
-[14:11:20] [User Authenticator #18/INFO]: UUID of player BlackPillona_94 is e258d955-cdf3-3130-9910-bfeca184bfa7
-[14:11:21] [Server thread/INFO]: BlackPillona_94 joined the game
-[14:11:21] [Server thread/INFO]: BlackPillona_94[/81.56.36.157:31762] logged in with entity id 176109 at ([world]-224.52905714346937, 88.5625, 89.49378986796107)
-[14:24:59] [Server thread/INFO]: BlackPillona_94 was slain by Iron Golem
-[14:35:35] [Async Chat Thread - #20/INFO]: [Not Secure] <BlackPillona_94> ggg
-[14:37:10] [Server thread/INFO]: BlackPillona_94 issued server command: /scoreboard
-[14:37:12] [Server thread/INFO]: BlackPillona_94 issued server command: /scoreboard objectives
-[14:37:17] [Server thread/INFO]: BlackPillona_94 issued server command: /scoreboard objectives add vita health
-[14:37:17] [Server thread/INFO]: [BlackPillona_94: Created new objective [vita]]
-[14:37:22] [Server thread/INFO]: BlackPillona_94 issued server command: /scoreboard objectives setdisplay list vita
-[14:37:22] [Server thread/INFO]: [BlackPillona_94: Set display slot list to show objective vita]
-[14:41:54] [Async Chat Thread - #22/INFO]: [Not Secure] <BlackPillona_94> warpseyt
-[14:41:56] [Async Chat Thread - #23/INFO]: [Not Secure] <BlackPillona_94> warpset
-[14:43:11] [Async Chat Thread - #24/INFO]: [Not Secure] <BlackPillona_94> gg
-[14:45:36] [Server thread/INFO]: BlackPillona_94 issued server command: /xp query ExEnry
-[14:45:39] [Server thread/INFO]: BlackPillona_94 issued server command: /xp query ExEnry levels
-[14:45:53] [Server thread/INFO]: BlackPillona_94 issued server command: /op BlackPillona_96
-[14:45:53] [Server thread/INFO]: [BlackPillona_94: Made BlackPillona_96 a server operator]
-[14:46:09] [Async Chat Thread - #26/INFO]: [Not Secure] <BlackPillona_94> ./xp query ExEnry levels
-[14:46:28] [Async Chat Thread - #26/INFO]: [Not Secure] <BlackPillona_94> ./gm 3
-[14:47:02] [Server thread/INFO]: BlackPillona_94 issued server command: /trigger enterSpectate and /trigger exitSpectate
-[14:47:04] [Async Chat Thread - #26/INFO]: [Not Secure] <BlackPillona_94> ./trigger enterSpectate and /trigger exitSpectate
-[14:48:00] [Server thread/INFO]: BlackPillona_94 issued server command: /rl confirm
-[14:48:00] [Server thread/INFO]: BlackPillona_94: Please note that this command is not supported and may cause issues when using some plugins.
-[14:48:00] [Server thread/INFO]: BlackPillona_94: If you encounter any issues please use the /stop command to restart your server.
-[14:48:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:48:00] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:48:00] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[14:48:00] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[14:48:00] [Server thread/INFO]: [Warps] Disabling Warps v4.1.3
-[14:48:00] [Server thread/INFO]: [WarpsGUI] Plugin has stopped!
-[14:48:00] [Server thread/INFO]: [ItemJoin] Disabling ItemJoin v6.1.1-RELEASE-b1048
-[14:48:00] [Server thread/INFO]: [BlueMap] Disabling BlueMap v5.5
-[14:48:00] [Server thread/INFO]: [BlueMap] Stopping...
-[14:48:01] [Server thread/INFO]: [BlueMap] Saved and stopped!
-[14:48:01] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v7.3.57
-[14:48:01] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.2.2
-[14:48:01] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[14:48:01] [Server thread/INFO]: Loaded 1370 recipes
-[14:48:01] [Server thread/INFO]: Loaded 1481 advancements
-[14:48:02] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[14:48:02] [Server thread/INFO]: [PluginInitializerManager] Initialized 6 plugins
-[14:48:02] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (6):
- - BlueMap (5.5), ItemJoin (6.1.1-RELEASE-b1048), SkinsRestorer (15.5.1), TreeAssist (7.3.57), Veinminer (2.2.2), Warps (4.1.3)
-[14:48:02] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loading 4 libraries... please wait
-[14:48:02] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib/2.1.0/kotlin-stdlib-2.1.0.jar
-[14:48:02] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
-[14:48:02] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json/1.7.3/kotlinx-serialization-json-1.7.3.jar
-[14:48:02] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.7.3/kotlinx-serialization-json-jvm-1.7.3.jar
-[14:48:02] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.jar
-[14:48:02] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.jar
-[14:48:02] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar
-[14:48:02] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/de/miraculixx/kpaper/1.2.1/kpaper-1.2.1.jar
-[14:48:02] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.1/kotlinx-coroutines-jdk8-1.7.1.jar
-[14:48:02] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.jar
-[14:48:02] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.jar
-[14:48:03] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[14:48:03] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.2.2
-[14:48:03] [Server thread/INFO]: [TreeAssist] Loading server plugin TreeAssist v7.3.57
-[14:48:03] [Server thread/INFO]: [TreeAssist] Loading main config file: /config.yml
-[14:48:03] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v5.5
-[14:48:03] [Server thread/INFO]: [ItemJoin] Loading server plugin ItemJoin v6.1.1-RELEASE-b1048
-[14:48:03] [Server thread/INFO]: [Warps] Loading server plugin Warps v4.1.3
-[14:48:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:48:03] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[14:48:04] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[14:48:04] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[14:48:04] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
-[14:48:05] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[14:48:05] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.2.2
-[14:48:05] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:48:05] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
-[14:48:05] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[14:48:05] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
-[14:48:05] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[14:48:05] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
-[14:48:05] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:48:05] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.5.1
-[14:48:05] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: d5d8613
-[14:48:05] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
-[14:48:05] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:48:05] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[14:48:05] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[14:48:05] [Server thread/INFO]: [ItemJoin] Enabling ItemJoin v6.1.1-RELEASE-b1048
-[14:48:05] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v7.3.57
-[14:48:05] [Server thread/INFO]: [TreeAssist] sending full Metrics! You can deactivate this in the config.yml
-[14:48:05] [Server thread/INFO]: [TreeAssist] debugging: off
-[14:48:05] [Thread-317/INFO]: [TreeAssist] Checking for updates...
-[14:48:05] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.5
-[14:48:05] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
-[14:48:05] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
-[14:48:05] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is up to date
-[14:48:05] [Server thread/INFO]: [Warps] Enabling Warps v4.1.3
-[14:48:05] [Server thread/INFO]: [WarpsGUI] Plugin has started!
-[14:48:05] [Server thread/INFO]: BlackPillona_94: Reload complete.
-[14:48:05] [Server thread/WARN]: BlackPillona_94 moved too quickly! -14.869189528893855,2.183796840539202,8.116059175103729
-[14:48:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5500ms or 110 ticks behind
-[14:48:05] [Craft Scheduler Thread - 4405 - ItemJoin/ERROR]: [ItemJoin_ERROR] Detected a unsupported version of Minecraft, expected: 1.21.3 or older!
-[14:48:05] [Craft Scheduler Thread - 4405 - ItemJoin/ERROR]: [ItemJoin_ERROR] Attempting to run in NMS compatibility mode...
-[14:48:05] [Craft Scheduler Thread - 4405 - ItemJoin/ERROR]: [ItemJoin_ERROR] Things may not work as expected, please check for plugin updates.
-[14:48:05] [Craft Scheduler Thread - 4416 - BlueMap/INFO]: [BlueMap] Loading...
-[14:48:05] [Craft Scheduler Thread - 4405 - ItemJoin/INFO]: [ItemJoin] Hooked into { SkinsRestorer }
-[14:48:06] [Server thread/WARN]: BlackPillona_94 moved too quickly! -14.655265798648543,2.557700877005928,7.905268950274447
-[14:48:06] [Server thread/INFO]: [ItemJoin] 1/1 Custom item(s) loaded!
-[14:48:06] [Craft Scheduler Thread - 4405 - ItemJoin/INFO]: [ItemJoin] Checking for updates...
-[14:48:06] [Craft Scheduler Thread - 4405 - ItemJoin/INFO]: [ItemJoin] You are up to date!
-[14:48:06] [Craft Scheduler Thread - 4416 - BlueMap/INFO]: [BlueMap] Loading resources...
-[14:48:07] [Craft Scheduler Thread - 4416 - BlueMap/INFO]: [BlueMap] Loading textures...
-[14:48:08] [Server thread/INFO]: BlackPillona_94 issued server command: /deop BlackPillona_94
-[14:48:08] [Server thread/INFO]: [BlackPillona_94: Made BlackPillona_94 no longer a server operator]
-[14:48:09] [Craft Scheduler Thread - 4416 - BlueMap/INFO]: [BlueMap] Baking resources...
-[14:48:10] [Craft Scheduler Thread - 4416 - BlueMap/INFO]: [BlueMap] Resources loaded.
-[14:48:10] [Craft Scheduler Thread - 4416 - BlueMap/INFO]: [BlueMap] Initializing Storage: 'file' (Type: 'bluemap:file')
-[14:48:10] [Craft Scheduler Thread - 4416 - BlueMap/INFO]: [BlueMap] Loading map 'world'...
-[14:48:10] [Craft Scheduler Thread - 4416 - BlueMap/INFO]: [BlueMap] Loading map 'world_the_end'...
-[14:48:10] [Craft Scheduler Thread - 4416 - BlueMap/INFO]: [BlueMap] Loading map 'world_nether'...
-[14:48:10] [Craft Scheduler Thread - 4416 - BlueMap/INFO]: [BlueMap] WebServer bound to all network interfaces on port 3000
-[14:48:10] [Thread-318/INFO]: [BlueMap] WebServer started.
-[14:48:11] [Craft Scheduler Thread - 4416 - BlueMap/INFO]: [BlueMap] Loaded!
-[14:48:13] [Server thread/INFO]: BlackPillona_94 issued server command: /trigger enterSpectate
-[14:48:13] [Server thread/INFO]: [BlackPillona_94: Triggered [enterSpectate]]
-[14:48:18] [Server thread/INFO]: BlackPillona_94 issued server command: /trigger exitSpectate
-[14:48:18] [Server thread/INFO]: [BlackPillona_94: Triggered [exitSpectate]]
-[14:48:24] [Async Chat Thread - #27/INFO]: [Not Secure] <BlackPillona_94> ./trigger enterSpectate
-[14:48:27] [Async Chat Thread - #27/INFO]: [Not Secure] <BlackPillona_94> ./trigger exitSpectate
-[14:48:31] [Server thread/INFO]: BlackPillona_96 issued server command: /deop BlackPillona_96
-[14:48:31] [Server thread/INFO]: [BlackPillona_96: Made BlackPillona_96 no longer a server operator]
-[14:48:36] [Server thread/INFO]: BlackPillona_96 issued server command: /trigger enterSpectate
-[14:48:36] [Server thread/INFO]: [BlackPillona_96: Triggered [enterSpectate]]
-[14:48:53] [Async Chat Thread - #27/INFO]: [Not Secure] <BlackPillona_94> ./trigger exitSpectate
-[14:48:54] [Server thread/INFO]: BlackPillona_96 issued server command: /trigger exitSpectate
-[14:48:54] [Server thread/INFO]: [BlackPillona_96: Triggered [exitSpectate]]
-[15:25:02] [Async Chat Thread - #28/INFO]: [Not Secure] <BlackPillona_94> oppure mi sta gris perche le ho smok tutta la casa
-[15:38:40] [Server thread/INFO]: BlackPillona_94 issued server command: /xp query ExEnry levels
-[15:39:37] [Server thread/INFO]: BlackPillona_94 has made the advancement [Local Brewery]
-[15:41:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
-p query ExEnry levels<--[HERE]
-[15:41:48] [Server thread/INFO]: ExEnry has 160 experience levels
-[15:46:10] [Async Chat Thread - #30/INFO]: [Not Secure] <BlackPillona_94> J
-[15:48:45] [Server thread/INFO]: Made BlackPillona_94 a server operator
-[15:48:56] [Server thread/INFO]: BlackPillona_94 issued server command: /give @p beacon
-[15:48:56] [Server thread/INFO]: [BlackPillona_94: Gave 1 [Beacon] to BlackPillona_94]
-[15:48:59] [Server thread/INFO]: BlackPillona_94 issued server command: /deop BlackPillona_94
-[15:48:59] [Server thread/INFO]: [BlackPillona_94: Made BlackPillona_94 no longer a server operator]
-[15:49:09] [Server thread/INFO]: BlackPillona_94 issued server command: /trigger enterSpectate
-[15:49:09] [Server thread/INFO]: [BlackPillona_94: Triggered [enterSpectate]]
-[15:49:39] [Server thread/INFO]: BlackPillona_94 issued server command: /trigger exitSpectate
-[15:49:39] [Server thread/INFO]: [BlackPillona_94: Triggered [exitSpectate]]
-[15:50:50] [Server thread/INFO]: BlackPillona_96 issued server command: /trigger enterSpectate
-[15:50:50] [Server thread/INFO]: [BlackPillona_96: Triggered [enterSpectate]]
-[16:01:34] [Server thread/INFO]: BlackPillona_96 issued server command: /trigger exitSpectate
-[16:01:34] [Server thread/INFO]: [BlackPillona_96: Triggered [exitSpectate]]
-[16:07:56] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode
-[16:08:03] [Server thread/INFO]: Made BlackPillona_94 a server operator
-[16:09:08] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode creative
-[16:09:08] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Creative Mode]
-[16:10:57] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode survival
-[16:10:57] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Survival Mode]
-[16:11:11] [Server thread/INFO]: BlackPillona_94 issued server command: /gamerule randomTickSpeed
-[16:13:17] [Server thread/INFO]: BlackPillona_94 issued server command: /xp query ExEnry levels
-[16:15:12] [Async Chat Thread - #32/INFO]: [Not Secure] <BlackPillona_94> sb2744
-[16:19:09] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode creative
-[16:19:09] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Creative Mode]
-[16:19:10] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode survival
-[16:19:10] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Survival Mode]
-[16:37:34] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode creative
-[16:37:34] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Creative Mode]
-[16:37:43] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode survival
-[16:37:43] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Survival Mode]
-[16:39:51] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode creative
-[16:39:51] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Creative Mode]
-[16:40:34] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode survival
-[16:40:34] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Survival Mode]
-[16:43:44] [Async Chat Thread - #34/INFO]: [Not Secure] <BlackPillona_96> -/spaun mucca - - -
-[16:44:15] [Async Chat Thread - #34/INFO]: [Not Secure] <BlackPillona_94> gaymode kreativ
-[16:44:29] [Async Chat Thread - #35/INFO]: [Not Secure] <BlackPillona_96> geymod keratin
-[16:48:54] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode creative
-[16:48:54] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Creative Mode]
-[16:50:00] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode survival
-[16:50:00] [Server thread/INFO]: [BlackPillona_94: Set own game mode to Survival Mode]
-[16:55:06] [Server thread/INFO]: BlackPillona_94 lost connection: Disconnected
-[16:55:06] [Server thread/INFO]: BlackPillona_94 left the game
-[16:55:09] [Server thread/INFO]: ExEnry lost connection: Disconnected
-[16:55:09] [Server thread/INFO]: ExEnry left the game
-[16:55:14] [User Authenticator #19/INFO]: UUID of player BlackPillona_94 is e258d955-cdf3-3130-9910-bfeca184bfa7
-[16:55:14] [Server thread/INFO]: BlackPillona_94 joined the game
-[16:55:14] [Server thread/INFO]: BlackPillona_94[/81.56.36.157:19215] logged in with entity id 280676 at ([world]-284.0565914685151, 86.0, 135.67919403351803)
-[16:55:18] [User Authenticator #19/INFO]: UUID of player ExEnry is 724d1c1c-ad79-3f05-91e2-d008afeaa6d5
-[16:55:19] [Server thread/INFO]: ExEnry joined the game
-[16:55:19] [Server thread/INFO]: ExEnry[/91.254.74.218:51801] logged in with entity id 280686 at ([world]-312.2471552172717, 88.0, 130.3164275308284)
-[16:55:34] [Async Chat Thread - #36/INFO]: [Not Secure] <BlackPillona_94> ./trigger enterSpectate
-[16:55:37] [Server thread/INFO]: BlackPillona_94 issued server command: /trigger enterSpectate
-[16:55:37] [Server thread/INFO]: [BlackPillona_94: Triggered [enterSpectate]]
-[16:55:48] [Server thread/INFO]: BlackPillona_94 issued server command: /trigger exitSpectate
-[16:55:48] [Server thread/INFO]: [BlackPillona_94: Triggered [exitSpectate]]
-[17:11:10] [Server thread/INFO]: BlackPillona_94 issued server command: /bluemap BlackPillona_94
-[17:11:26] [Server thread/INFO]: BlackPillona_94 issued server command: /bluemap worlds
-[17:12:23] [Async Chat Thread - #38/INFO]: [Not Secure] <BlackPillona_94> 124 236
-[17:12:26] [Async Chat Thread - #39/INFO]: [Not Secure] <BlackPillona_94> 124 236 TEMPIO MARINO
-[17:27:17] [Server thread/INFO]: BlackPillona_96 lost connection: Disconnected
-[17:27:17] [Server thread/INFO]: BlackPillona_96 left the game
-[17:27:22] [Server thread/INFO]: ExEnry lost connection: Disconnected
-[17:27:22] [Server thread/INFO]: ExEnry left the game
-[17:27:23] [User Authenticator #20/INFO]: UUID of player BlackPillona_96 is a05c8968-62c7-3ffb-bca7-bf07caf51f25
-[17:27:24] [Server thread/INFO]: BlackPillona_96 joined the game
-[17:27:24] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:51351] logged in with entity id 285934 at ([world]-277.9499413190556, 86.0, 89.94746794467743)
-[17:27:32] [User Authenticator #20/INFO]: UUID of player ExEnry is 724d1c1c-ad79-3f05-91e2-d008afeaa6d5
-[17:27:33] [Server thread/INFO]: ExEnry joined the game
-[17:27:33] [Server thread/INFO]: ExEnry[/91.254.74.218:59410] logged in with entity id 285970 at ([world]-284.5233798489345, 91.0, 135.216565562067)
-[17:29:24] [Async Chat Thread - #40/INFO]: [Not Secure] <BlackPillona_94> sushpula tu familia sa
-[17:29:33] [Async Chat Thread - #40/INFO]: [Not Secure] <BlackPillona_94> je nique ta mere
-[17:29:53] [Async Chat Thread - #40/INFO]: [Not Secure] <BlackPillona_94> tu higos eres mi perro
-[17:39:11] [Async Chat Thread - #42/INFO]: [Not Secure] <BlackPillona_94> poi il documento nell account amazon con 1000 carte rubate mai che lo metto
-[17:47:35] [Server thread/INFO]: BlackPillona_94 issued server command: /recipe give @a *
-[17:47:35] [Server thread/INFO]: [BlackPillona_94: Unlocked 1370 recipes for 3 players]
-[17:49:23] [Server thread/INFO]: ExEnry has made the advancement [Crafting a New Look]
-[17:58:32] [Server thread/INFO]: BlackPillona_94 lost connection: Disconnected
-[17:58:32] [Server thread/INFO]: BlackPillona_94 left the game
-[17:58:35] [Server thread/INFO]: ExEnry lost connection: Disconnected
-[17:58:35] [Server thread/INFO]: ExEnry left the game
-[17:58:37] [User Authenticator #21/INFO]: UUID of player BlackPillona_94 is e258d955-cdf3-3130-9910-bfeca184bfa7
-[17:58:38] [Server thread/INFO]: BlackPillona_94 joined the game
-[17:58:38] [Server thread/INFO]: BlackPillona_94[/81.56.36.157:23837] logged in with entity id 302986 at ([world]2367.425036726601, 65.0, -545.4233573566179)
-[17:58:38] [User Authenticator #21/INFO]: UUID of player ExEnry is 724d1c1c-ad79-3f05-91e2-d008afeaa6d5
-[17:58:38] [Server thread/INFO]: ExEnry joined the game
-[17:58:38] [Server thread/INFO]: ExEnry[/91.254.74.218:60652] logged in with entity id 303031 at ([world]2382.731510890991, 67.0, -550.9269800731715)
-[18:00:06] [Server thread/INFO]: BlackPillona_94 issued server command: /rl confirm
-[18:00:06] [Server thread/INFO]: BlackPillona_94: Please note that this command is not supported and may cause issues when using some plugins.
-[18:00:06] [Server thread/INFO]: BlackPillona_94: If you encounter any issues please use the /stop command to restart your server.
-[18:00:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:00:07] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:00:07] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[18:00:07] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[18:00:07] [Server thread/INFO]: [Warps] Disabling Warps v4.1.3
-[18:00:07] [Server thread/INFO]: [WarpsGUI] Plugin has stopped!
-[18:00:07] [Server thread/INFO]: [ItemJoin] Disabling ItemJoin v6.1.1-RELEASE-b1048
-[18:00:07] [Server thread/INFO]: [BlueMap] Disabling BlueMap v5.5
-[18:00:07] [Server thread/INFO]: [BlueMap] Stopping...
-[18:00:07] [Server thread/INFO]: [BlueMap] Saved and stopped!
-[18:00:07] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v7.3.57
-[18:00:07] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.2.2
-[18:00:07] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[18:00:08] [Server thread/INFO]: Loaded 1370 recipes
-[18:00:08] [Server thread/INFO]: Loaded 1481 advancements
-[18:00:08] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:00:08] [Server thread/INFO]: [PluginInitializerManager] Initialized 6 plugins
-[18:00:08] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (6):
- - BlueMap (5.5), ItemJoin (6.1.1-RELEASE-b1048), SkinsRestorer (15.5.1), TreeAssist (7.3.57), Veinminer (2.2.2), Warps (4.1.3)
-[18:00:08] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loading 4 libraries... please wait
-[18:00:09] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib/2.1.0/kotlin-stdlib-2.1.0.jar
-[18:00:09] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
-[18:00:09] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json/1.7.3/kotlinx-serialization-json-1.7.3.jar
-[18:00:09] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.7.3/kotlinx-serialization-json-jvm-1.7.3.jar
-[18:00:09] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.jar
-[18:00:09] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.jar
-[18:00:09] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar
-[18:00:09] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/de/miraculixx/kpaper/1.2.1/kpaper-1.2.1.jar
-[18:00:09] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.1/kotlinx-coroutines-jdk8-1.7.1.jar
-[18:00:09] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.jar
-[18:00:09] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.jar
-[18:00:09] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[18:00:09] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.2.2
-[18:00:10] [Server thread/INFO]: [TreeAssist] Loading server plugin TreeAssist v7.3.57
-[18:00:10] [Server thread/INFO]: [TreeAssist] Loading main config file: /config.yml
-[18:00:10] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v5.5
-[18:00:10] [Server thread/INFO]: [ItemJoin] Loading server plugin ItemJoin v6.1.1-RELEASE-b1048
-[18:00:10] [Server thread/INFO]: [Warps] Loading server plugin Warps v4.1.3
-[18:00:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:00:10] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[18:00:10] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[18:00:10] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[18:00:11] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
-[18:00:11] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[18:00:11] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.2.2
-[18:00:12] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:00:12] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[18:00:12] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[18:00:12] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
-[18:00:12] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[18:00:12] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[18:00:12] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:00:12] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.5.1
-[18:00:12] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: d5d8613
-[18:00:12] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
-[18:00:12] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:00:12] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[18:00:12] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[18:00:12] [Server thread/INFO]: [ItemJoin] Enabling ItemJoin v6.1.1-RELEASE-b1048
-[18:00:12] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v7.3.57
-[18:00:12] [Server thread/INFO]: [TreeAssist] sending full Metrics! You can deactivate this in the config.yml
-[18:00:12] [Server thread/INFO]: [TreeAssist] debugging: off
-[18:00:12] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.5
-[18:00:12] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
-[18:00:12] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
-[18:00:12] [Thread-357/INFO]: [TreeAssist] Checking for updates...
-[18:00:12] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is up to date
-[18:00:12] [Server thread/INFO]: [Warps] Enabling Warps v4.1.3
-[18:00:12] [Server thread/INFO]: [WarpsGUI] Plugin has started!
-[18:00:12] [Server thread/INFO]: BlackPillona_94: Reload complete.
-[18:00:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5850ms or 117 ticks behind
-[18:00:12] [Craft Scheduler Thread - 5498 - BlueMap/INFO]: [BlueMap] Loading...
-[18:00:12] [Craft Scheduler Thread - 5500 - ItemJoin/ERROR]: [ItemJoin_ERROR] Detected a unsupported version of Minecraft, expected: 1.21.3 or older!
-[18:00:12] [Craft Scheduler Thread - 5500 - ItemJoin/ERROR]: [ItemJoin_ERROR] Attempting to run in NMS compatibility mode...
-[18:00:12] [Craft Scheduler Thread - 5500 - ItemJoin/ERROR]: [ItemJoin_ERROR] Things may not work as expected, please check for plugin updates.
-[18:00:12] [Craft Scheduler Thread - 5500 - ItemJoin/INFO]: [ItemJoin] Hooked into { SkinsRestorer }
-[18:00:13] [Server thread/INFO]: [ItemJoin] 1/1 Custom item(s) loaded!
-[18:00:13] [Server thread/WARN]: ExEnry moved too quickly! -7.708893804811396,-4.0,-4.963515039895242
-[18:00:13] [Craft Scheduler Thread - 5500 - ItemJoin/INFO]: [ItemJoin] Checking for updates...
-[18:00:13] [Craft Scheduler Thread - 5500 - ItemJoin/INFO]: [ItemJoin] You are up to date!
-[18:00:13] [Craft Scheduler Thread - 5498 - BlueMap/INFO]: [BlueMap] Loading resources...
-[18:00:15] [Craft Scheduler Thread - 5498 - BlueMap/INFO]: [BlueMap] Loading textures...
-[18:00:16] [Server thread/INFO]: BlackPillona_94 issued server command: /datapack list
-[18:00:17] [Craft Scheduler Thread - 5498 - BlueMap/INFO]: [BlueMap] Baking resources...
-[18:00:17] [Craft Scheduler Thread - 5498 - BlueMap/INFO]: [BlueMap] Resources loaded.
-[18:00:17] [Craft Scheduler Thread - 5498 - BlueMap/INFO]: [BlueMap] Initializing Storage: 'file' (Type: 'bluemap:file')
-[18:00:17] [Craft Scheduler Thread - 5498 - BlueMap/INFO]: [BlueMap] Loading map 'world'...
-[18:00:17] [Craft Scheduler Thread - 5498 - BlueMap/INFO]: [BlueMap] Loading map 'world_the_end'...
-[18:00:18] [Craft Scheduler Thread - 5498 - BlueMap/INFO]: [BlueMap] Loading map 'world_nether'...
-[18:00:18] [Craft Scheduler Thread - 5498 - BlueMap/INFO]: [BlueMap] WebServer bound to all network interfaces on port 3000
-[18:00:18] [Thread-358/INFO]: [BlueMap] WebServer started.
-[18:00:18] [Craft Scheduler Thread - 5498 - BlueMap/INFO]: [BlueMap] Loaded!
-[18:02:57] [Server thread/INFO]: BlackPillona_94 was shot by BlackPillona_96
-[18:05:07] [Server thread/INFO]: BlackPillona_94 issued server command: /skin pene
-[18:05:11] [Server thread/INFO]: BlackPillona_94 issued server command: /skin dick
-[18:05:15] [Server thread/INFO]: BlackPillona_94 issued server command: /skin Pisello
-[18:05:19] [Server thread/INFO]: BlackPillona_94 issued server command: /skin Cazzo
-[18:05:21] [Server thread/INFO]: BlackPillona_94 issued server command: /skin Minchia
-[18:11:43] [Server thread/INFO]: BlackPillona_94 issued server command: /tell BlackPillona_96 occhio a quello che diciamo che il fratello è finoch
-[18:12:43] [Async Chat Thread - #45/INFO]: [Not Secure] <BlackPillona_94> ./skin Minchia
-[18:12:55] [Server thread/INFO]: BlackPillona_96 issued server command: /skin purpled
-[18:13:03] [Server thread/INFO]: BlackPillona_96 issued server command: /skin Red
-[18:13:03] [Server thread/INFO]: BlackPillona_94 issued server command: /skin St3pNy_
-[18:13:15] [Server thread/INFO]: BlackPillona_94 issued server command: /skin BlackPillona_94
-[18:19:21] [Server thread/INFO]: BlackPillona_94 issued server command: /time query daytime
-[18:19:27] [Server thread/INFO]: BlackPillona_94 issued server command: /time query gametime
-[18:20:27] [Async Chat Thread - #46/INFO]: [Not Secure] <BlackPillona_94> Tech4Play
-[18:36:27] [Server thread/INFO]: ExEnry has made the advancement [Ol' Betsy]
-[19:13:00] [Server thread/INFO]: BlackPillona_94 lost connection: Disconnected
-[19:13:00] [Server thread/INFO]: BlackPillona_94 left the game
+[20:28:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:28:31] [ServerMain/INFO]: Loaded 1370 recipes
+[20:28:31] [ServerMain/INFO]: Loaded 1481 advancements
+[20:28:31] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[20:28:31] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 325.6ms
+[20:28:31] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[20:28:31] [Server thread/INFO]: Loading properties
+[20:28:32] [Server thread/INFO]: This server is running Paper version 1.21.4-66-main@d00344a (2024-12-29T14:59:35Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[20:28:32] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:28:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:28:32] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:28:33] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[20:28:33] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[20:28:33] [Server thread/INFO]: Default game type: SURVIVAL
+[20:28:33] [Server thread/INFO]: Generating keypair
+[20:28:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:28:33] [Server thread/INFO]: Using epoll channel type
+[20:28:33] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:28:33] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[20:28:33] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loading 4 libraries... please wait
+[20:28:34] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib/2.1.0/kotlin-stdlib-2.1.0.jar
+[20:28:34] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
+[20:28:34] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json/1.7.3/kotlinx-serialization-json-1.7.3.jar
+[20:28:34] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.7.3/kotlinx-serialization-json-jvm-1.7.3.jar
+[20:28:34] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.jar
+[20:28:34] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.jar
+[20:28:34] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar
+[20:28:34] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/de/miraculixx/kpaper/1.2.1/kpaper-1.2.1.jar
+[20:28:34] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.1/kotlinx-coroutines-jdk8-1.7.1.jar
+[20:28:34] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.jar
+[20:28:34] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /home/gabrielepili_la/mc-vanilla/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.jar
+[20:28:34] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[20:28:34] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.2.2
+[20:28:35] [Server thread/INFO]: [TreeAssist] Loading server plugin TreeAssist v7.3.57
+[20:28:35] [Server thread/INFO]: [TreeAssist] Loading main config file: /config.yml
+[20:28:35] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v5.5
+[20:28:35] [Server thread/INFO]: [ItemJoin] Loading server plugin ItemJoin v6.1.1-RELEASE-b1048
+[20:28:35] [Server thread/INFO]: [Warps] Loading server plugin Warps v4.1.3
+[20:28:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:28:35] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[20:28:36] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[20:28:36] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[20:28:37] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[20:28:37] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.2.2
+[20:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[20:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[20:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[20:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[20:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[20:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[20:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[20:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[20:28:37] [Server thread/INFO]: [ItemJoin] Enabling ItemJoin v6.1.1-RELEASE-b1048
+[20:28:37] [Server thread/INFO]: Preparing level "world"
+[20:28:38] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is up to date
+[20:28:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:28:38] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:39] [Server thread/INFO]: Preparing spawn area: 2%
+[20:28:39] [Server thread/INFO]: Preparing spawn area: 10%
+[20:28:39] [Server thread/INFO]: Time elapsed: 1307 ms
+[20:28:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:28:39] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:40] [Server thread/INFO]: Time elapsed: 245 ms
+[20:28:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:28:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:40] [Server thread/INFO]: Time elapsed: 157 ms
+[20:28:40] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v7.3.57
+[20:28:40] [Server thread/INFO]: [TreeAssist] sending full Metrics! You can deactivate this in the config.yml
+[20:28:40] [Server thread/INFO]: [TreeAssist] debugging: off
+[20:28:40] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.5
+[20:28:40] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
+[20:28:40] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[20:28:40] [Thread-12/INFO]: [TreeAssist] Checking for updates...
+[20:28:40] [Server thread/INFO]: [Warps] Enabling Warps v4.1.3
+[20:28:40] [Server thread/INFO]: [WarpsGUI] Plugin has started!
+[20:28:41] [Server thread/INFO]: [spark] Starting background profiler...
+[20:28:41] [Server thread/INFO]: Done preparing level "world" (3.749s)
+[20:28:41] [Server thread/INFO]: Running delayed init tasks
+[20:28:41] [Craft Scheduler Thread - 3 - ItemJoin/ERROR]: [ItemJoin_ERROR] Detected a unsupported version of Minecraft, expected: 1.21.3 or older!
+[20:28:41] [Craft Scheduler Thread - 3 - ItemJoin/ERROR]: [ItemJoin_ERROR] Attempting to run in NMS compatibility mode...
+[20:28:41] [Craft Scheduler Thread - 3 - ItemJoin/ERROR]: [ItemJoin_ERROR] Things may not work as expected, please check for plugin updates.
+[20:28:41] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Loading...
+[20:28:41] [Craft Scheduler Thread - 3 - ItemJoin/INFO]: [ItemJoin] Hooked into { SkinsRestorer }
+[20:28:42] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Loading resources...
+[20:28:42] [Server thread/INFO]: [ItemJoin] 1/1 Custom item(s) loaded!
+[20:28:42] [Server thread/INFO]: Done (21.415s)! For help, type "help"
+[20:28:42] [Craft Scheduler Thread - 3 - ItemJoin/INFO]: [ItemJoin] Checking for updates...
+[20:28:42] [Craft Scheduler Thread - 3 - ItemJoin/INFO]: [ItemJoin] You are up to date!
+[20:28:43] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Loading textures...
+[20:28:45] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Baking resources...
+[20:28:45] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Resources loaded.
+[20:28:46] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Initializing Storage: 'file' (Type: 'bluemap:file')
+[20:28:46] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Loading map 'world'...
+[20:28:46] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Loading map 'world_the_end'...
+[20:28:46] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Loading map 'world_nether'...
+[20:28:47] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] WebServer bound to all network interfaces on port 3000
+[20:28:47] [Thread-17/INFO]: [BlueMap] WebServer started.
+[20:28:47] [Craft Scheduler Thread - 1 - BlueMap/INFO]: [BlueMap] Loaded!
+[20:28:51] [User Authenticator #0/INFO]: UUID of player BlackPillona_94 is 16bc20a0-9c8c-471b-a921-c9a5f4d76eb7
+[20:28:52] [Server thread/WARN]: Using offline mode UUID file for player BlackPillona_94 as it is the only copy we can find.
+[20:28:53] [Server thread/INFO]: BlackPillona_94 joined the game
+[20:28:53] [Server thread/INFO]: BlackPillona_94 has completed the challenge [Cover Me in Debris]
+[20:28:53] [Server thread/INFO]: BlackPillona_94[/81.56.36.157:24593] logged in with entity id 43 at ([world]-241.0842181668956, 86.5, 97.58209708902837)
+[20:28:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2525ms or 50 ticks behind
+[20:30:10] [User Authenticator #1/INFO]: UUID of player ExEnry is b531db4c-6a4f-4d90-b9fe-9e28f9afe551
+[20:30:10] [Server thread/WARN]: Using offline mode UUID file for player ExEnry as it is the only copy we can find.
+[20:30:10] [Server thread/INFO]: ExEnry joined the game
+[20:30:10] [Server thread/INFO]: ExEnry has made the advancement [Cover Me with Diamonds]
+[20:30:10] [Server thread/INFO]: ExEnry[/91.254.74.218:49668] logged in with entity id 493 at ([world]-284.59546857070666, 86.0, 138.01565060754277)
+[20:30:14] [Server thread/INFO]: BlackPillona_94 issued server command: /about
+[20:30:45] [Server thread/INFO]: BlackPillona_94 issued server command: /gamemode creative
+[20:32:23] [User Authenticator #2/INFO]: UUID of player BlackPillona_96 is 50e6bc1a-afae-475c-aff9-9d44ec3e2ae4
+[20:32:24] [Server thread/WARN]: Using offline mode UUID file for player BlackPillona_96 as it is the only copy we can find.
+[20:32:24] [Server thread/INFO]: BlackPillona_96 joined the game
+[20:32:24] [Server thread/INFO]: BlackPillona_96 has completed the challenge [Cover Me in Debris]
+[20:32:24] [Server thread/INFO]: BlackPillona_96[/93.67.93.38:50304] logged in with entity id 791 at ([world]-304.02325565056844, 89.0, 140.0094351843699)
+[20:32:31] [Server thread/INFO]: BlackPillona_96 issued server command: /skin Purpled
