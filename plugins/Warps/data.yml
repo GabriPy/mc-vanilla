@@ -1,32 +1,32 @@
+homes: ''
 warps:
   Casa:
-    x: -307.8221291705689
-    y: 92.0
-    z: 114.43205289011964
-    pitch: 25.65005
-    yaw: 162.00801
+    x: -307.9319
+    y: 88.0
+    z: 112.96813
+    pitch: 4.6152987
+    yaw: 89.78477
     world: world
     icon: OAK_DOOR
-    name: '&6&lCasa'
     needsPermission: false
   Magazzino:
-    x: -310.55444
-    y: 81.0
-    z: 112.880684
-    pitch: -3.3794985
-    yaw: -87.78723
+    x: -284.51944
+    y: 86.0
+    z: 131.9305
+    pitch: 38.999912
+    yaw: 1.5654297
     world: world
     icon: CHEST
     needsPermission: false
-  Mob Spawner:
-    needsPermission: false
-    x: -694.51086
-    y: 81.0
-    z: 14.320672
-    pitch: 10.004885
-    yaw: 87.29544
-    world: world
-    icon: SPAWNER
+  # Mob Spawner:
+  #   needsPermission: false
+  #   x: -694.51086
+  #   y: 81.0
+  #   z: 14.320672
+  #   pitch: 10.004885
+  #   yaw: 87.29544
+  #   world: world
+  #   icon: SPAWNER
   Blaze:
     needsPermission: false
     world: world_nether
@@ -36,24 +36,24 @@ warps:
     pitch: 7.6509166
     yaw: -176.73079
     icon: BLAZE_ROD
-  Spawner Zombie:
-    needsPermission: false
-    world: world
-    x: -132.6654947601631
-    y: 44.0
-    z: 234.64749282295932
-    pitch: 28.183115
-    yaw: 95.66919
-    icon: ROTTEN_FLESH
-  Spawner Ragni:
-    needsPermission: false
-    world: world
-    x: -440.3109434903476
-    y: -2.0
-    z: 309.1187625711772
-    pitch: 29.78327
-    yaw: 76.53369
-    icon: STRING
+  # Spawner Zombie:
+  #   needsPermission: false
+  #   world: world
+  #   x: -132.6654947601631
+  #   y: 44.0
+  #   z: 234.64749282295932
+  #   pitch: 28.183115
+  #   yaw: 95.66919
+  #   icon: ROTTEN_FLESH
+  # Spawner Ragni:
+  #   needsPermission: false
+  #   world: world
+  #   x: -440.3109434903476
+  #   y: -2.0
+  #   z: 309.1187625711772
+  #   pitch: 29.78327
+  #   yaw: 76.53369
+  #   icon: STRING
   Fortezza Negri Oro:
     needsPermission: false
     world: world_nether
@@ -79,7 +79,7 @@ warps:
     pitch: 12.426901
     yaw: 86.66925
     world: world
-    icon: DIRT
+    icon: END_PORTAL_FRAME
   EnderMan Farm:
     x: 20.91429
     y: 57.0
@@ -88,22 +88,22 @@ warps:
     yaw: -30.935913
     world: world_the_end
     icon: ENDER_PEARL
-  Wither:
-    x: -236.47665
-    y: -47.0
-    z: 2.8092213
-    pitch: 18.82051
-    yaw: -41.738403
-    world: world
-    icon: SOUL_SAND
-  palude:
+  # Wither:
+  #   x: -236.47665
+  #   y: -47.0
+  #   z: 2.8092213
+  #   pitch: 18.82051
+  #   yaw: -41.738403
+  #   world: world
+  #   icon: SOUL_SAND
+  Palude:
     x: 2352.218
     y: 63.0
     z: -561.1388
     pitch: 6.541292
     yaw: -39.7358
     world: world
-    icon: AZALEA
+    icon: LILY_PAD
   Mending:
     x: -1615.3
     y: 67.0
@@ -111,7 +111,7 @@ warps:
     pitch: 70.950035
     yaw: -94.81466
     world: world
-    icon: ELYTRA
+    icon: ENCHANTED_BOOK
   Deserto:
     x: 14524.014
     y: 64.0
@@ -128,13 +128,28 @@ warps:
     yaw: 52.640385
     world: world
     icon: PINK_TERRACOTTA
-homes:
-  e258d955-cdf3-3130-9910-bfeca184bfa7:
-    casa:
-      x: -309.2281
-      y: 96.0625
-      z: 107.020546
-      pitch: 36.714184
-      yaw: 22.746643
-      world: world
-      icon: GRASS_BLOCK
+  Coralli:
+    x: 16318.325
+    y: 65.0
+    z: 1469.6582
+    pitch: 34.199997
+    yaw: -156.33044
+    world: world
+    icon: TUBE_CORAL
+  Mangrove:
+    x: 16461.447
+    y: 69.0
+    z: 1281.7657
+    pitch: -5.4000473
+    yaw: -66.02818
+    world: world
+    icon: MANGROVE_PROPAGULE
+  Pillager:
+    x: 17069.115
+    y: 76.0
+    z: 1054.9673
+    pitch: -10.199863
+    yaw: -128.87843
+    world: world
+    icon: CROSSBOW
+
