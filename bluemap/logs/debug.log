@@ -1,155 +1,74 @@
-[2025-01-06 23:34:46][INFO] Loading resources...
-[2025-01-06 23:34:46][FINE] Loading resources from: bluemap/resourceExtensions.zip ...
-[2025-01-06 23:34:47][FINE] Loading resources from: bluemap/minecraft-client-1.21.4.jar ...
-[2025-01-06 23:34:47][INFO] Loading textures...
-[2025-01-06 23:34:47][FINE] Loading textures from: bluemap/resourceExtensions.zip ...
-[2025-01-06 23:34:48][FINE] Loading textures from: bluemap/minecraft-client-1.21.4.jar ...
-[2025-01-06 23:34:50][INFO] Baking resources...
-[2025-01-06 23:34:50][INFO] Resources loaded.
-[2025-01-06 23:34:50][FINE] Loading world world#minecraft:overworld ...
-[2025-01-06 23:34:50][FINE] Loading datapack...
-[2025-01-06 23:34:50][FINE] Loading datapack from: world/datapacks/bukkit ...
-[2025-01-06 23:34:50][FINE] Loading datapack from: world/datapacks/survival-spawners-1-21.zip ...
-[2025-01-06 23:34:50][FINE] Loading datapack from: world/datapacks/Server-Sleep-Data-Pack-1.21.zip ...
-[2025-01-06 23:34:50][FINE] Loading datapack from: world/datapacks/ToggleSpectator.zip ...
-[2025-01-06 23:34:50][FINE] Loading datapack from: world/datapacks/better-armorstands-dp.zip ...
-[2025-01-06 23:34:50][FINE] Loading datapack from: bluemap/resourceExtensions.zip ...
-[2025-01-06 23:34:50][FINE] Loading datapack from: bluemap/minecraft-client-1.21.4.jar ...
-[2025-01-06 23:34:50][FINE] Baking datapack...
-[2025-01-06 23:34:50][FINE] Datapack loaded.
-[2025-01-06 23:34:50][INFO] Initializing Storage: 'file' (Type: 'bluemap:file')
-[2025-01-06 23:34:50][INFO] Loading map 'world'...
-[2025-01-06 23:34:50][FINE] Loading render-state for map 'world'
-[2025-01-06 23:34:50][FINE] Loading textures for map 'world'
-[2025-01-06 23:34:50][FINE] Loading world world_the_end#minecraft:the_end ...
-[2025-01-06 23:34:50][FINE] Loading datapack...
-[2025-01-06 23:34:50][FINE] Loading datapack from: bluemap/resourceExtensions.zip ...
-[2025-01-06 23:34:50][FINE] Loading datapack from: bluemap/minecraft-client-1.21.4.jar ...
-[2025-01-06 23:34:50][FINE] Baking datapack...
-[2025-01-06 23:34:50][FINE] Datapack loaded.
-[2025-01-06 23:34:50][INFO] Loading map 'world_the_end'...
-[2025-01-06 23:34:50][FINE] Loading render-state for map 'world_the_end'
-[2025-01-06 23:34:50][FINE] Loading textures for map 'world_the_end'
-[2025-01-06 23:34:50][FINE] Loading world world_nether#minecraft:the_nether ...
-[2025-01-06 23:34:50][FINE] Loading datapack...
-[2025-01-06 23:34:50][FINE] Loading datapack from: bluemap/resourceExtensions.zip ...
-[2025-01-06 23:34:50][FINE] Loading datapack from: bluemap/minecraft-client-1.21.4.jar ...
-[2025-01-06 23:34:50][FINE] Baking datapack...
-[2025-01-06 23:34:50][FINE] Datapack loaded.
-[2025-01-06 23:34:50][INFO] Loading map 'world_nether'...
-[2025-01-06 23:34:50][FINE] Loading render-state for map 'world_nether'
-[2025-01-06 23:34:50][FINE] Loading textures for map 'world_nether'
-[2025-01-06 23:34:51][INFO] WebServer bound to all network interfaces on port 3000
-[2025-01-06 23:34:51][INFO] WebServer started.
-[2025-01-06 23:34:51][FINE] Started watching map 'world' for updates...
-[2025-01-06 23:34:51][FINE] Started watching map 'world_the_end' for updates...
-[2025-01-06 23:34:51][FINE] Started watching map 'world_nether' for updates...
-[2025-01-06 23:34:51][INFO] Loaded!
-[2025-01-06 23:38:34][FINE] Scheduled update for region-file: (32, 1) (Map: world)
-[2025-01-06 23:38:37][FINE] Scheduled update for region-file: (33, 1) (Map: world)
-[2025-01-06 23:38:37][FINE] Scheduled update for region-file: (32, 2) (Map: world)
-[2025-01-06 23:38:37][FINE] Scheduled update for region-file: (33, 2) (Map: world)
-[2025-01-06 23:39:50][FINE] Scheduled update for region-file: (0, -1) (Map: world_nether)
-[2025-01-06 23:39:50][FINE] Scheduled update for region-file: (-1, -1) (Map: world_nether)
-[2025-01-06 23:39:50][FINE] Scheduled update for region-file: (-1, 0) (Map: world_nether)
-[2025-01-06 23:39:50][FINE] Scheduled update for region-file: (0, -1) (Map: world)
-[2025-01-06 23:39:50][FINE] Scheduled update for region-file: (0, 0) (Map: world)
-[2025-01-06 23:39:50][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
-[2025-01-06 23:39:50][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:39:58][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
-[2025-01-06 23:39:58][FINE] Scheduled update for region-file: (0, -1) (Map: world)
-[2025-01-06 23:40:07][FINE] Scheduled update for region-file: (0, -1) (Map: world_nether)
-[2025-01-06 23:40:07][FINE] Scheduled update for region-file: (0, 0) (Map: world_nether)
-[2025-01-06 23:40:07][FINE] Scheduled update for region-file: (-1, 0) (Map: world_nether)
-[2025-01-06 23:40:07][FINE] Scheduled update for region-file: (-1, -1) (Map: world_nether)
-[2025-01-06 23:40:33][FINE] Scheduled update for region-file: (-1, -1) (Map: world_nether)
-[2025-01-06 23:40:33][FINE] Scheduled update for region-file: (-1, 0) (Map: world_nether)
-[2025-01-06 23:40:40][FINE] Scheduled update for region-file: (0, 0) (Map: world_nether)
-[2025-01-06 23:40:40][FINE] Scheduled update for region-file: (0, -1) (Map: world_nether)
-[2025-01-06 23:40:46][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
-[2025-01-06 23:40:46][FINE] Scheduled update for region-file: (0, -1) (Map: world)
-[2025-01-06 23:40:46][FINE] Scheduled update for region-file: (0, 0) (Map: world)
-[2025-01-06 23:40:46][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:41:07][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
-[2025-01-06 23:41:11][FINE] Scheduled update for region-file: (0, 0) (Map: world)
-[2025-01-06 23:41:14][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
-[2025-01-06 23:41:14][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:41:23][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
-[2025-01-06 23:41:23][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:41:28][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:41:57][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
-[2025-01-06 23:41:57][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:42:12][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
-[2025-01-06 23:42:12][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:42:22][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:42:25][FINE] Scheduled update for region-file: (-2, 0) (Map: world)
-[2025-01-06 23:42:26][FINE] Scheduled update for region-file: (-2, -1) (Map: world)
-[2025-01-06 23:42:29][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
-[2025-01-06 23:42:36][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
-[2025-01-06 23:42:59][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:43:10][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:43:33][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:43:44][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:43:58][FINE] Scheduled update for region-file: (0, -1) (Map: world)
-[2025-01-06 23:44:00][FINE] Scheduled update for region-file: (0, 0) (Map: world)
-[2025-01-06 23:44:00][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:44:09][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:44:10][FINE] Scheduled update for region-file: (0, 0) (Map: world)
-[2025-01-06 23:44:50][FINE] Scheduled update for region-file: (-1, -1) (Map: world_nether)
-[2025-01-06 23:44:50][FINE] Scheduled update for region-file: (-1, 0) (Map: world_nether)
-[2025-01-06 23:45:01][FINE] Scheduled update for region-file: (-1, -1) (Map: world_nether)
-[2025-01-06 23:45:01][FINE] Scheduled update for region-file: (-1, 0) (Map: world_nether)
-[2025-01-06 23:45:06][FINE] Scheduled update for region-file: (0, 0) (Map: world_nether)
-[2025-01-06 23:45:40][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
-[2025-01-06 23:45:46][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:46:14][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:46:23][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:46:28][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:46:57][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:47:09][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:47:15][FINE] Scheduled update for region-file: (-4, 0) (Map: world)
-[2025-01-06 23:47:15][FINE] Scheduled update for region-file: (-4, -1) (Map: world)
-[2025-01-06 23:47:27][FINE] Scheduled update for region-file: (-4, -1) (Map: world)
-[2025-01-06 23:47:27][FINE] Scheduled update for region-file: (-4, 0) (Map: world)
-[2025-01-06 23:47:27][FINE] Scheduled update for region-file: (-4, 1) (Map: world)
-[2025-01-06 23:47:31][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:47:36][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
-[2025-01-06 23:47:37][FINE] Scheduled update for region-file: (-4, -1) (Map: world)
-[2025-01-06 23:47:43][FINE] Scheduled update for region-file: (-4, 0) (Map: world)
-[2025-01-06 23:47:43][FINE] Scheduled update for region-file: (-4, 1) (Map: world)
-[2025-01-06 23:47:43][FINE] Scheduled update for region-file: (-3, 1) (Map: world)
-[2025-01-06 23:47:44][FINE] Scheduled update for region-file: (-3, 0) (Map: world)
-[2025-01-06 23:47:44][FINE] Scheduled update for region-file: (-3, -1) (Map: world)
-[2025-01-06 23:47:44][FINE] Scheduled update for region-file: (-4, -1) (Map: world)
-[2025-01-06 23:47:45][FINE] Scheduled update for region-file: (-2, 0) (Map: world)
-[2025-01-06 23:48:07][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
-[2025-01-06 23:48:07][FINE] Scheduled update for region-file: (-2, -1) (Map: world)
-[2025-01-06 23:48:26][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:49:26][FINE] Scheduled update for region-file: (-1, -1) (Map: world_nether)
-[2025-01-06 23:49:27][FINE] Scheduled update for region-file: (-1, 0) (Map: world_nether)
-[2025-01-06 23:49:50][FINE] Scheduled update for region-file: (-1, -1) (Map: world_nether)
-[2025-01-06 23:49:50][FINE] Scheduled update for region-file: (-1, 0) (Map: world_nether)
-[2025-01-06 23:50:01][FINE] Scheduled update for region-file: (-1, -1) (Map: world_nether)
-[2025-01-06 23:50:05][FINE] Scheduled update for region-file: (-1, 0) (Map: world_nether)
-[2025-01-06 23:50:06][FINE] Scheduled update for region-file: (0, 0) (Map: world_nether)
-[2025-01-06 23:50:21][FINE] Scheduled update for region-file: (0, 0) (Map: world_nether)
-[2025-01-06 23:50:21][FINE] Scheduled update for region-file: (-1, 0) (Map: world_nether)
-[2025-01-06 23:50:28][FINE] Scheduled update for region-file: (-4, 0) (Map: world)
-[2025-01-06 23:50:28][FINE] Scheduled update for region-file: (-4, 1) (Map: world)
-[2025-01-06 23:50:35][FINE] Scheduled update for region-file: (-3, 0) (Map: world)
-[2025-01-06 23:50:35][FINE] Scheduled update for region-file: (-4, 0) (Map: world)
-[2025-01-06 23:50:35][FINE] Scheduled update for region-file: (-3, 1) (Map: world)
-[2025-01-06 23:50:35][FINE] Scheduled update for region-file: (-4, 1) (Map: world)
-[2025-01-06 23:50:41][FINE] Scheduled update for region-file: (-3, 0) (Map: world)
-[2025-01-06 23:50:41][FINE] Scheduled update for region-file: (-3, 1) (Map: world)
-[2025-01-06 23:50:45][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:50:57][FINE] Scheduled update for region-file: (-3, 1) (Map: world)
-[2025-01-06 23:50:57][FINE] Scheduled update for region-file: (-3, 0) (Map: world)
-[2025-01-06 23:50:57][FINE] Scheduled update for region-file: (-2, 1) (Map: world)
-[2025-01-06 23:50:57][FINE] Scheduled update for region-file: (-2, 0) (Map: world)
-[2025-01-06 23:51:14][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:51:23][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:51:28][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:51:55][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:52:08][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
-[2025-01-06 23:55:46][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-01-07 03:07:10][INFO] Loading resources...
+[2025-01-07 03:07:10][FINE] Loading resources from: bluemap/resourceExtensions.zip ...
+[2025-01-07 03:07:11][FINE] Loading resources from: bluemap/minecraft-client-1.21.4.jar ...
+[2025-01-07 03:07:11][INFO] Loading textures...
+[2025-01-07 03:07:11][FINE] Loading textures from: bluemap/resourceExtensions.zip ...
+[2025-01-07 03:07:11][FINE] Loading textures from: bluemap/minecraft-client-1.21.4.jar ...
+[2025-01-07 03:07:12][INFO] Baking resources...
+[2025-01-07 03:07:12][INFO] Resources loaded.
+[2025-01-07 03:07:12][FINE] Loading world world#minecraft:overworld ...
+[2025-01-07 03:07:12][FINE] Loading datapack...
+[2025-01-07 03:07:12][FINE] Loading datapack from: world/datapacks/bukkit ...
+[2025-01-07 03:07:12][FINE] Loading datapack from: world/datapacks/survival-spawners-1-21.zip ...
+[2025-01-07 03:07:12][FINE] Loading datapack from: world/datapacks/Server-Sleep-Data-Pack-1.21.zip ...
+[2025-01-07 03:07:12][FINE] Loading datapack from: world/datapacks/ToggleSpectator.zip ...
+[2025-01-07 03:07:12][FINE] Loading datapack from: world/datapacks/better-armorstands-dp.zip ...
+[2025-01-07 03:07:12][FINE] Loading datapack from: bluemap/resourceExtensions.zip ...
+[2025-01-07 03:07:12][FINE] Loading datapack from: bluemap/minecraft-client-1.21.4.jar ...
+[2025-01-07 03:07:12][FINE] Baking datapack...
+[2025-01-07 03:07:12][FINE] Datapack loaded.
+[2025-01-07 03:07:12][INFO] Initializing Storage: 'file' (Type: 'bluemap:file')
+[2025-01-07 03:07:12][INFO] Loading map 'world'...
+[2025-01-07 03:07:12][FINE] Loading render-state for map 'world'
+[2025-01-07 03:07:12][FINE] Loading textures for map 'world'
+[2025-01-07 03:07:12][FINE] Loading world world_the_end#minecraft:the_end ...
+[2025-01-07 03:07:12][FINE] Loading datapack...
+[2025-01-07 03:07:12][FINE] Loading datapack from: bluemap/resourceExtensions.zip ...
+[2025-01-07 03:07:12][FINE] Loading datapack from: bluemap/minecraft-client-1.21.4.jar ...
+[2025-01-07 03:07:12][FINE] Baking datapack...
+[2025-01-07 03:07:12][FINE] Datapack loaded.
+[2025-01-07 03:07:12][INFO] Loading map 'world_the_end'...
+[2025-01-07 03:07:12][FINE] Loading render-state for map 'world_the_end'
+[2025-01-07 03:07:12][FINE] Loading textures for map 'world_the_end'
+[2025-01-07 03:07:12][FINE] Loading world world_nether#minecraft:the_nether ...
+[2025-01-07 03:07:12][FINE] Loading datapack...
+[2025-01-07 03:07:12][FINE] Loading datapack from: bluemap/resourceExtensions.zip ...
+[2025-01-07 03:07:12][FINE] Loading datapack from: bluemap/minecraft-client-1.21.4.jar ...
+[2025-01-07 03:07:12][FINE] Baking datapack...
+[2025-01-07 03:07:12][FINE] Datapack loaded.
+[2025-01-07 03:07:12][INFO] Loading map 'world_nether'...
+[2025-01-07 03:07:12][FINE] Loading render-state for map 'world_nether'
+[2025-01-07 03:07:12][FINE] Loading textures for map 'world_nether'
+[2025-01-07 03:07:12][INFO] WebServer bound to all network interfaces on port 3000
+[2025-01-07 03:07:12][INFO] WebServer started.
+[2025-01-07 03:07:12][FINE] Started watching map 'world' for updates...
+[2025-01-07 03:07:12][FINE] Started watching map 'world_the_end' for updates...
+[2025-01-07 03:07:12][FINE] Started watching map 'world_nether' for updates...
+[2025-01-07 03:07:12][INFO] Loaded!
+[2025-01-07 03:07:31][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-01-07 03:07:54][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-01-07 03:08:31][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-01-07 03:08:55][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-01-07 03:09:37][FINE] Scheduled update for region-file: (-9, 10) (Map: world)
+[2025-01-07 03:10:10][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-01-07 03:10:21][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-01-07 03:10:49][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-01-07 03:11:07][FINE] Scheduled update for region-file: (-2, 2) (Map: world)
+[2025-01-07 03:11:08][FINE] Scheduled update for region-file: (-1, 2) (Map: world)
+[2025-01-07 03:11:08][FINE] Scheduled update for region-file: (-2, 1) (Map: world)
+[2025-01-07 03:11:10][FINE] Scheduled update for region-file: (-1, 1) (Map: world)
+[2025-01-07 03:11:11][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-01-07 03:11:12][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
+[2025-01-07 03:11:15][FINE] Scheduled update for region-file: (-2, -1) (Map: world)
+[2025-01-07 03:11:15][FINE] Scheduled update for region-file: (-1, 1) (Map: world)
+[2025-01-07 03:11:28][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-01-07 03:11:38][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-01-07 03:11:57][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-01-07 03:12:06][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-01-07 03:12:34][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-01-07 03:12:54][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-01-07 03:12:55][FINE] Scheduled update for region-file: (-2, -1) (Map: world)
+[2025-01-07 03:13:06][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-01-07 03:13:08][FINE] Scheduled update for region-file: (0, 0) (Map: world)
+[2025-01-07 03:13:31][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-01-07 03:13:55][FINE] Scheduled update for region-file: (-1, 0) (Map: world)

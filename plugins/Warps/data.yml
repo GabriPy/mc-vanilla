@@ -152,4 +152,20 @@ warps:
     yaw: -128.87843
     world: world
     icon: CROSSBOW
+  CREEPER:
+    x: -263.72693
+    y: 250.0
+    z: 331.4842
+    pitch: 33.89994
+    yaw: 96.21008
+    world: world
+    icon: TNT
+  Beacon:
+    x: -284.4095
+    y: 79.0
+    z: 100.62135
+    pitch: 81.48875
+    yaw: 102.72183
+    world: world
+    icon: BEACON
 
