@@ -1,4 +1,13 @@
-homes: ''
+homes:
+  16bc20a0-9c8c-471b-a921-c9a5f4d76eb7:
+    ciao:
+      x: -1310.3
+      y: 64.0
+      z: 182.35895
+      pitch: 13.837156
+      yaw: -32.978027
+      world: world
+      icon: DIORITE
 warps:
   Casa:
     x: -307.9319
@@ -168,4 +177,28 @@ warps:
     yaw: 102.72183
     world: world
     icon: BEACON
+  negriiiii:
+    x: -1302.8818
+    y: 67.0
+    z: 77.46957
+    pitch: 11.769171
+    yaw: -55.803833
+    world: world
+    icon: DIORITE
+  EndCity:
+    x: -665.0265
+    y: 139.0
+    z: -795.91614
+    pitch: 36.155888
+    yaw: -169.0732
+    world: world_the_end
+    icon: STONE
+  ntherite:
+    x: 772.444
+    y: 15.0
+    z: 128.3
+    pitch: 57.16236
+    yaw: -0.057739258
+    world: world_nether
+    icon: ANCIENT_DEBRIS
 
